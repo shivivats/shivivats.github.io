@@ -1,0 +1,12 @@
+I"u<p>Auto Drifter is a <strong>top-down 2D racing</strong> game in which the player competes against the AI in a race, drifting around corners while the car automatically accelerates. The game was made for a course as part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a>, with the condition that the game had to only be played with one button. I made two versions of the game, one played with one button where the player can only turn counter-clockwise, and another where the player can turn either direction using two buttons.</p>
+
+<p>The game was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I worked alone on this, hence I programmed the <strong>gameplay</strong> and <strong>created the art</strong>. The game does not have any audio.</p>
+
+<p>Here’s a gameplay video of the two button version:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ajv9FNBEp8" title="Auto Drifter (Two Button) Gameplay Sample" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>The one button version of the game can be found on itch.io <a href="https://shivivats.itch.io/auto-drifter">here</a>, and the two button version <a href="https://shivivats.itch.io/auto-drifter-two-button-version">here</a>.</p>
+
+<p>I’ve provided a brief overview of the game on this page. However, if you would like to hear more of my thoughts about the game, you can read them in <a href="">this blog post</a>. You can check out the rest of my projects <a href="">here</a>.</p>
+:ET

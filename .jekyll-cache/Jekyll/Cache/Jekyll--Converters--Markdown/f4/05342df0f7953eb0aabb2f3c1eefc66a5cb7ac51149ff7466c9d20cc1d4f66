@@ -1,0 +1,21 @@
+I"<p>The System is a text-based narrative game that tries to make the player experience life through the point-of-view of people with <a href="https://en.wikipedia.org/wiki/Dissociative_identity_disorder">DID</a>. The game encapsulates a few weeks in which the system gets a new member and how they deal with getting to know them and incorporating them into their lives. It was developed for a course as part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a>.</p>
+
+<p>The game was built using <strong>Twine</strong>. I worked in a team of two on this, and we both worked on <strong>half of the narrative</strong>.</p>
+
+<p>Here’s some screenshots:</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_thesystem">
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-1.png" title="" alt="The System Image 1" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-2.png" title="" alt="The System Image 2" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-3.png" title="" alt="The System Image 3" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-4.png" title="" alt="The System Image 4" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-5.png" title="" alt="The System Image 5" />
+  </div>
+
+<p>The game can be found on itch.io <a href="https://shivivats.itch.io/the-system">here</a>.</p>
+
+<p>I’ve provided a brief overview of the game on this page. However, if you would like to hear more of my thoughts about the game, you can read them in <a href="">this blog post</a>. You can check out the rest of my projects <a href="">here</a>.</p>
+:ET
