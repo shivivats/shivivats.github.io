@@ -2,7 +2,7 @@
 layout: post
 title:  "Robo Chase"
 categories: [Game Jam Games, Team Projects]
-tags: [2D, C#, Local Multiplayer, Unity]
+tags: [2D, C-Sharp, Local Multiplayer, Unity]
 image: assets/images/featured-images/robo-chase-featured.png
 image_sliders:
   - slider_robochase

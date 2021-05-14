@@ -3,11 +3,12 @@ layout: post
 title:  "Car Parkour"
 #author: Shivi
 categories: [Hobby Projects, Team Projects]
-tags: [3D, C#, Unity]
+tags: [3D, C-Sharp, Unity]
 image: assets/images/featured-images/car-parkour-featured.png
 ---
 
 Car Parkour is a **3D multiplayer car racing** game with [Rocket League](https://www.rocketleague.com/) like mechanics. It was made as a hobby project over a weekend. The game uses assets from the [Racing Kit by Kenney](https://kenney.nl/assets/racing-kit).
+<!--more-->
 
 It was built using the **Unity3D** engine and written in **C#**. I worked in a **team of two** on this, as a **level designer** and **programmer**.
 

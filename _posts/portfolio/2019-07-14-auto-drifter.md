@@ -3,7 +3,7 @@ layout: post
 title:  "Auto Drifter"
 #author: Shivi
 categories: [University Projects, Solo Projects]
-tags: [2D, C#, Unity]
+tags: [2D, C-Sharp, Unity]
 image: assets/images/featured-images/autodrifter-twobutton-featured.png
 ---
 

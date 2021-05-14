@@ -3,7 +3,7 @@ layout: post
 title:  "Phantom Chess"
 #author: Shivi
 categories: [Game Jam Games, Team Projects]
-tags: [2D, C#, Unity]
+tags: [2D, C-Sharp, Unity]
 image: assets/images/featured-images/phantom-chess-featured.png
 featured: true
 ---

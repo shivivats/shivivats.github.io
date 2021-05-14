@@ -1,4 +1,0 @@
-I"<p>SpellSlinger is a <strong>3D Augmented Reality</strong> mobile game where the player defends their house from attacking enemies by activating different spells using their cards. It was developed for a course as part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a>, in 3 days.
-<!--more-->
-The game was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I worked in a team of four on this, as a <strong>programmer</strong>. I was responsible for programming <strong>everything related to AR</strong> and the <strong>core gameplay</strong> of the game. The AR functionality was implemented with the help of <a href="https://unity3d.com/partners/google/arcore">Google ARCore for Unity</a>.</p>
-:ET

@@ -4,7 +4,7 @@ title: "Shivi's Portfolio and Blog"
 description: "My Portfolio and Blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-include: ["_pages"]
+include: ["_pages", "_categories"]
 #permalink: /:title/
 
 defaults:
@@ -46,10 +46,12 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
+    tag: '/tag/:name/'
+
 # Pagination 
 paginate: 6
 paginate_path: /page:num/

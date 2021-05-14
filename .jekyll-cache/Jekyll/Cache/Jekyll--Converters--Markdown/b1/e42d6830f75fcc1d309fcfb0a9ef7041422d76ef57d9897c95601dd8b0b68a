@@ -1,4 +1,0 @@
-I":<p>SpellShift is a <strong>top-down 2D alchemy game</strong>, developed for <a href="https://itch.io/jam/geta-game-jam-6">Geta Game Jam 6</a>. The player has to use different spells by combining various elements and clear the dungeons. Different enemies are affected by different types of spells and with limited spell slots, it becomes a game of preparedness as well!
-<!--more-->
-The game was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I worked in a team of three on this, as a <strong>gameplay programmer and level designer</strong>. I designed the air level, and worked on programming the <strong>core alchemy system</strong>. We tried to implement audio but it was very last minute and we unfortunately didn’t have time to polish it, so the game was published without audio.</p>
-:ET

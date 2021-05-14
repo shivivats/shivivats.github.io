@@ -3,7 +3,7 @@ layout: post
 title:  "Busy Hell Tycoon"
 #author: Shivi
 categories: [Game Jam Games, Team Projects]
-tags: [2D, C#, Unity]
+tags: [2D, C-Sharp, Unity]
 image: assets/images/featured-images/busy-hell-tycoon-featured.png
 ---
 

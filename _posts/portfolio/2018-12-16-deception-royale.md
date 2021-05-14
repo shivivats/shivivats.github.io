@@ -2,7 +2,7 @@
 layout: post
 title:  "Deception Royale"
 categories: [Game Jam Games, Team Projects]
-tags: [2D, C#, Online Multiplayer, Unity]
+tags: [2D, C-Sharp, Online Multiplayer, Unity]
 image: assets/images/featured-images/deception-royale-featured.png
 ---
 
