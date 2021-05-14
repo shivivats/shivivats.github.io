@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Kind Companion"
-author: Shivi
+#author: Shivi
 categories: [Hobby Projects, Solo Projects]
+tags: [Android, Java, XML]
 image: assets/images/featured-images/kind-companion-featured.png
 image_sliders:
   - slider_kindcompanion
@@ -23,4 +24,13 @@ Here are some screenshots:
 
 The app is currently in [open beta on the Play Store](https://play.google.com/apps/testing/com.shivivats.kindcompanion) and [here](https://github.com/shivivats/Kind-Companion) is the source code on GitHub.
 
-I’ve provided a brief overview of the app on this page. However, if you would like to hear more of my thoughts about the app, you can read them in [this blog post](). You can check out the rest of my projects [here]().
+Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the blog home by clicking [here]({{ site.baseurl }}/index.html).
+
+#### Background
+
+As part of my [Masters degree](https://www.aau.at/en/studien/master-game-studies-and-engineering/), I had to do an internship, working for atleast 250 hours and having some proof-of-work at the end. I wanted to work on a project related to mental health as I had been interested in the field for quite some time. With the guidance of one of my professors, I decided to make an Android app focusing on helping people deal with anxiety. As soon as I started out, I knew that I wanted to make this an app worth releasing on to the Play Store. However, having never worked on an Android app before, I understood the challenge and made sure to get accquainted with the basics before I delved into development.
+
+#### Design Choices and What I learnt
+
+I had to write a 3000-word report on the internship for my University. I will take parts from that report and put them here in the near future.
+

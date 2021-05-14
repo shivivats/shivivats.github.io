@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "SpellShift"
-author: Shivi
+#author: Shivi
 categories: [Game Jam Games, Team Projects]
+tags: [2D, C#, Unity]
 image: assets/images/featured-images/spell-shift-featured.png
 ---
 
@@ -16,4 +17,22 @@ Here’s a gameplay video:
 
 The game can be found on itch.io [here](https://geist-191.itch.io/spellshift).
 
-I’ve provided a brief overview of the game on this page. However, if you would like to hear more of my thoughts about the game, you can read them in [this blog post](). You can check out the rest of my projects [here]().
+Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking [here]({{ site.baseurl }}/index.html).
+
+#### Background
+
+I teamed up with 2 of my friends to work on this game. We all study in the same program so we wanted to make a game together. With all 3 of us being mainly programmers, we all took up to programming different portions of the game, with me working on the core functionalities as the other two were focusing on art and particle effects as well.
+
+#### Design Choices
+
+I had always wanted to make a game based on elements, and I still would make an infinite number of games relating to that theme. So when we found out the theme for the jam was alchemy, I proposed this idea and the other two people agreed. We decided to make a simple dungeon crawler as that would allow us to focus more on the “alchemy” part of the game rather than spending a significant chunk of the 3 days we had working on something else.
+
+The idea for combining elements and making elemental enemies isn’t the most original, but it still seemed like a fun game to us so we went with it. We decided to have four elemental levels, each based on the four basic elements we had: fire, water, air and earth. Each of us decided to take up the level design for one elemental level, with the fourth one being a collaborative design.
+
+In the end the game turned out well, and I personally was happy that we were able to implement the alchemy system to the extent that we had planned to.
+
+#### What I learnt
+
+As with [Robo Chase]({{ site.baseurl }}/robo-chase.html), I was working with one of my teammates for the first time. I had to learn to adapt to their speed and the way they prefer to work. In an environment like that, where there is no formal team hierarchy, everyone has a role that they take up unknowingly. I think for me, that role was of the one who would compromise to make others feel happy. But I’ve learnt that keeping myself happy is also important for any kind of group work, and made a mental note to compromise less in the future.
+
+I also think our decision of leaving the audio out of the game was a good one. Absence of audio does impact the overall gameplay experience but I feel like having “bad” audio, that would perhaps distract players from the other elements of the game, would have been worse than having no audio at all.

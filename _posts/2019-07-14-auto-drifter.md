@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Auto Drifter"
-author: Shivi
+#author: Shivi
 categories: [University Projects, Solo Projects]
+tags: [2D, C#, Unity]
 image: assets/images/featured-images/autodrifter-twobutton-featured.png
 ---
 
@@ -16,4 +17,20 @@ Here’s a gameplay video of the two button version:
 
 The one button version of the game can be found on itch.io [here](https://shivivats.itch.io/auto-drifter), and the two button version [here](https://shivivats.itch.io/auto-drifter-two-button-version).
 
-I’ve provided a brief overview of the game on this page. However, if you would like to hear more of my thoughts about the game, you can read them in [this blog post](). You can check out the rest of my projects [here]().
+Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking [here]({{ site.baseurl }}/index.html).
+
+#### Background
+
+This is another project I made as part of my [Masters degree](https://www.aau.at/en/studien/master-game-studies-and-engineering/) at my [University](https://www.aau.at/en/). This particular lecture focused on game design and we were tasked to make a game playable using only a single button as a final project. Since I love cars and I had been wanting to make a game focusing on cars for a while, I went with a drifting/racing theme.
+
+#### Design Choices
+
+The game revolved around the player’s car automatically accelerating and the player using just one key to rotate the car in a direction to manoeuver around the circuit. I modelled the track by taking inspiration from various Formula 1 circuits from across the globe. I inititally had planned to add a car customiser to the game but I decided to skip it since controlling it with just one button would have been troublesome for the player.
+
+Decision to add an AI was made to give the player a sense of competition and also to show a bit of the “driving line” to them incase they were confused.
+
+I had a lot of fun designing and developing this game, as I am quite passionate about cars. I am happy with how the game turned out. I even made a two button version of it to give the player more control over their car.
+
+#### What I learnt
+
+I learnt that games do not need to be complicated to be fun. They can be as simple as a racing/drifting game played using only one button!

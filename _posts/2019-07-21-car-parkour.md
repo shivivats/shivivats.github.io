@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Car Parkour"
-author: Shivi
+#author: Shivi
 categories: [Hobby Projects, Team Projects]
+tags: [3D, C#, Unity]
 image: assets/images/featured-images/car-parkour-featured.png
 ---
 
@@ -16,4 +17,20 @@ Here’s a gameplay video:
 
 The game can be found on itch.io [here](https://flywolfe.itch.io/car-parkour).
 
-I’ve provided a brief overview of the game on this page. However, if you would like to hear more of my thoughts about the game, you can read them in [this blog post](). You can check out the rest of my projects [here]().
+Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking [here]({{ site.baseurl }}/index.html).
+
+#### Background
+
+Again, due to my passion for cars, I wanted to make a game with cars in it. A friend of mine wanted to make a game with [Rocket League](https://www.rocketleague.com/)-like mechanics. Hence, we decided to make a parkour game with cars in them. We used the [Racing Kit by Kenney](https://kenney.nl/assets/racing-kit) for this game as both of us wanted to focus on programming. Summer holidays had also arrived and we both wanted to make a game before we left for our respective homes.
+
+#### Design Choices
+
+The game is basically what was said above, a parkour game with cars and Rocket League-like mechanics. However, we wanted to add another element to the game, and as my friend was focusing on the core mechanics, I decided to implement multiplayer.
+
+This was my first time setting up multiplayer from scratch in Unity, as there had been somebody else who had done it during my previous multiplayer projects. We ended up having both a multiplayer and a singleplayer mode, allowing the player to choose between either.
+
+Overall, we were satisfied with what we had created. I had successfully implemented multiplayer, which I was quite proud of!
+
+#### What I learnt
+
+Implementing multiplayer was a new experience that was very much looking forward to since I love playing multiplayer games with friends. I learnt the basics of networking and why some functionalities work/dont work.

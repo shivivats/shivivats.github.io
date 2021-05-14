@@ -1,0 +1,30 @@
+I"d<p>Vis À Vis is a <strong>3D first-person atmospheric horror</strong> game. It was built for <a href="https://itch.io/jam/extra-credits-game-jam-4">Extra Credits Game Jam #4</a>. The player has to escape the world of mirrors they find themselves trapped in.</p>
+
+<p>The game was built using <strong>Unreal Engine 4</strong> and written in <strong>C++</strong> and <strong>Blueprints</strong>. I worked in a team of four on this, as a <strong>gameplay programmer</strong>. I was responsible for most of the other programming related functionalities, such as <strong>the UI</strong>, as well.</p>
+
+<p>It is my most popular game so far, with 2600+ views, 800+ downloads and in 90+ collections on itch.io. Here’s a gameplay video:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKgSpOs31mg" title="Vis À Vis Gameplay Sample" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>The game can be found on itch.io <a href="https://dr4g0nsoul.itch.io/vis-vis">here</a>.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p><a href="https://www.youtube.com/extracredits">Extra Credits</a> is a fairly well-known YouTube channel and I had been wanting to develop a game with a particular group of my friends I hadn’t worked with before, so when we heard they were hosting a <a href="https://itch.io/jam/extra-credits-game-jam-4">game jam</a>, we were all for participating in it together. I had been wanting to work with <a href="https://www.unrealengine.com/en-US/">Unreal Engine 4</a> for a while since I felt like I had gotten enough experience with <a href="https://unity.com/">Unity</a> and C# to try something new. I also wanted to get more C++ experience since I hadn’t worked with it in a long time, even though it was the first programming language I ever learnt.</p>
+
+<h4 id="design-choices">Design Choices</h4>
+
+<p>With the theme “Connect” being very open-ended, we had quite a few ideas in mind. But we wanted to go for a horror theme since we hadn’t delved into that genre before and horror games seemed to do very well on <a href="https://itch.io/">itch.io</a>. So we eventually decided on a parallel worlds theme with both of the worlds being “connected” through mirrors. I quite liked the idea and developing it was a lot of fun.</p>
+
+<p>Working with Unreal Engine for the first time took a decent amount of effort. Since I was the only programmer on the team, I had to learn the API and discover new libraries as I went. I learnt quite a lot about Unreal Engine, even though working with C++ after a long time was difficult.</p>
+
+<p>I ended up implementing some functionality that didn’t get used, such as a whole inventory system. This was mostly due to us changing up the design of the game during the middle of the jam since we had to rethink our scope. But regardless, it was a good learning experience.</p>
+
+<h4 id="what-i-learnt">What I learnt</h4>
+
+<p>I already talked about how I learnt to work with Unreal Engine but the most unexpected thing was how powerful <a href="https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html">Blueprints</a> can be. I inititally started out with wanting to implement most of the game in C++ but soon realised that implementing the base in C++ and expanding on it with Blueprints was how most of the functionalities were implemented in Unreal Engine.</p>
+
+<p>It was also the first big 3D project I had undertaken and I quite liked how it turned out. Working on a 3D game was also more satisfying to me than working in 2D was. In a way, it felt like I had progressed one step closer to developing big AAA games or big indie games.</p>
+:ET
