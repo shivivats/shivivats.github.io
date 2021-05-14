@@ -1,0 +1,30 @@
+I"�<p>Auto Drifter is a <strong>top-down 2D racing</strong> game in which the player competes against the AI in a race, drifting around corners while the car automatically accelerates. The game was made for a course as part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a>, with the condition that the game had to only be played with one button. <!--more--></p>
+
+<p>I made two versions of the game, one played with one button where the player can only turn counter-clockwise, and another where the player can turn either direction using two buttons.</p>
+
+<p>The game was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I worked alone on this, hence I programmed the <strong>gameplay</strong> and <strong>created the art</strong>. The game does not have any audio.</p>
+
+<p>Here’s a gameplay video of the two button version:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ajv9FNBEp8" title="Auto Drifter (Two Button) Gameplay Sample" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>The one button version of the game can be found on itch.io <a href="https://shivivats.itch.io/auto-drifter">here</a>, and the two button version <a href="https://shivivats.itch.io/auto-drifter-two-button-version">here</a>.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p>This is another project I made as part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a> at my <a href="https://www.aau.at/en/">University</a>. This particular lecture focused on game design and we were tasked to make a game playable using only a single button as a final project. Since I love cars and I had been wanting to make a game focusing on cars for a while, I went with a drifting/racing theme.</p>
+
+<h4 id="design-choices">Design Choices</h4>
+
+<p>The game revolved around the player’s car automatically accelerating and the player using just one key to rotate the car in a direction to manoeuver around the circuit. I modelled the track by taking inspiration from various Formula 1 circuits from across the globe. I inititally had planned to add a car customiser to the game but I decided to skip it since controlling it with just one button would have been troublesome for the player.</p>
+
+<p>Decision to add an AI was made to give the player a sense of competition and also to show a bit of the “driving line” to them incase they were confused.</p>
+
+<p>I had a lot of fun designing and developing this game, as I am quite passionate about cars. I am happy with how the game turned out. I even made a two button version of it to give the player more control over their car.</p>
+
+<h4 id="what-i-learnt">What I learnt</h4>
+
+<p>I learnt that games do not need to be complicated to be fun. They can be as simple as a racing/drifting game played using only one button!</p>
+:ET

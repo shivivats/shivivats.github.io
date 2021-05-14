@@ -1,0 +1,37 @@
+I"~<p>The System is a text-based narrative game that tries to make the player experience life through the point-of-view of people with <a href="https://en.wikipedia.org/wiki/Dissociative_identity_disorder">DID</a>. The game encapsulates a few weeks in which the system gets a new member and how they deal with getting to know them and incorporating them into their lives. It was developed for a course as part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a>.
+<!--more-->
+The game was built using <strong>Twine</strong>. I worked in a team of two on this, and we both worked on <strong>half of the narrative</strong>.</p>
+
+<p>Here’s some screenshots:</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_thesystem">
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-1.png" title="" alt="The System Image 1" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-2.png" title="" alt="The System Image 2" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-3.png" title="" alt="The System Image 3" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-4.png" title="" alt="The System Image 4" />
+  <img data-src="" data-src-2x="" src="/assets/images/thesystem/system-5.png" title="" alt="The System Image 5" />
+  </div>
+
+<p>The game can be found on itch.io <a href="https://shivivats.itch.io/the-system">here</a>.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p>As part of a course at my <a href="https://www.aau.at/">University</a>, we were asked to make a game using one of the game engines we were introduced to as part of the course. The theme was supposed to be revolving around gender issues, diversity, accessibility, etc as that was what the course was about. We had to choose between <a href="https://ledoux.itch.io/bitsy">Bitsy</a>, <a href="https://scratch.mit.edu/">Scratch</a>, <a href="https://twinery.org/">Twine</a>, <a href="https://www.lexaloffle.com/pico-8.php">Pico-8</a> and <a href="https://www.c64-wiki.com/wiki/Main_Page">Commodore 64</a>, all of which we had worked with atleast once during the course of the semester. We decided to go with Twine as we wanted to focus more on the narrative than the aesthetic aspects of the game.</p>
+
+<h4 id="design-choices">Design Choices</h4>
+
+<p>Since the topic was open-ended, we went with a game in which the player had to play as a Dissociative Identity Disorder (DID) system, in hopes to raise awareness about DID. We chose this topic since we knew that other groups in the course would be focusing on topics related to gender or diversity and we wanted to showcase something that perhaps not a lot of people know about.</p>
+
+<p>I, myself, wasn’t aware of DID before I started working on this game, So my teammate had to guide me through what it is and how Systems funciton. We laid out a plot together, and split it up into two parts. We worked on the parts individually and at the end, we reviewed each others texts to make revisions or to polish them, and just to check for any mistakes the other might have missed.</p>
+
+<p>It ended up being a well-received game and I think we succeeded in our goal to make others aware of DID, even if it was only for a small group of 25 people.</p>
+
+<h4 id="what-i-learnt">What I learnt</h4>
+
+<p>I was generally never good at writing stories, or using words to express what I had in my mind. I learnt quite a lot about how they are structured and what common mistakes some beginner writers make. I realised that my writing included a lot of showing and telling and my teammate helped correct a lot of those phrases into just showing, and not telling. I do believe my writing has improved since then, however my basic instinct is to still write in a very informal way. It might be showing on these blog posts, but I intend to keep the blogs semi-formal regardless.</p>
+:ET

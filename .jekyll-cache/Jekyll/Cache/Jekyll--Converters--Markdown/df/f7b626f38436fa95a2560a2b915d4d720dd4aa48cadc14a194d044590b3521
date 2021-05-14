@@ -1,0 +1,31 @@
+I"p<p>Stranded is a <strong>2D platformer</strong> where the player slings themselves around planets to get to their spaceship. It was developed for <a href="https://itch.io/jam/blackthornprodgamejam2">Blackthornprod Game Jam #2</a>. The game contains 3 levels, each on a different planet with varying level of difficulty, with the first planet acting as a tutorial level.
+<!--more--></p>
+
+<p>The game was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I worked in a <strong>team of five</strong> on this, as a <strong>gameplay programmer</strong>, including the <strong>slinging functionality</strong> which was inspired by the bash functionality in Ori and the Blind Forest.</p>
+
+<p>Here’s a gameplay video:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nDd2Sn33yc4" title="Stranded Gameplay Sample" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>The game can be found on itch.io <a href="https://geist-191.itch.io/stranded">here</a>.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p><a href="https://twitter.com/NoaCalice">Blackthornprod</a> is a YouTuber that me and my friends liked to watch, so when we found out that they were planning to host a <a href="https://itch.io/jam/blackthornprodgamejam2">game jam</a>, we decided we wanted to take part in it. Since all 5 of us wanted to participate, we just decided to do it together. However, we soon realised that 5 people without a lot of teamwork experience don’t work well together.</p>
+
+<h4 id="design-choices">Design Choices</h4>
+
+<p>The jam’s theme was “Mini Planets”. As with other game jams, we brainstormed ideas individually and then pitched them, and the most liked ones were developed on together. Initially, we settled on making a platformer in which the player jumped from planet to planet, like in Super Mario Galaxy. However, that wasn’t the case since some of the team members didn’t have the same idea in mind, and we realised that late into the development process. So we ended up making only 3 planets with them being fairly large sized, instead of making small planets that the player could quickly traverse.</p>
+
+<p>There was a lot of miscommunication, but we knew that we wanted obstacles, so I worked on making all the mechanics for the player and the obstacles, including the inwards gravity and the slingling, while I sat with our level designer to figure out how exactly he wanted the obstacles to work as. Just the two of us were well in sync and I think we managed to make that part of the game well.</p>
+
+<p>However, through the development process, due to miscommunication regarding how other’s code worked, we ended up having quite a few bugs which were stressful to solve. Even though we managed to solve most of them, the audio system was still buggy since it was designed last minute.</p>
+
+<p>This was my first game in which we had a dedicated artist, so our game’s visual aspect attracted quite a few players and was generally well-received.</p>
+
+<h4 id="what-i-learnt">What I learnt</h4>
+
+<p>Working in a team is harder than it seems. This was the most stressful game I have yet made, and that’s a shame considering I quite liked the concept. I decided that if I were to work in a team of 5 again, I would push for the team having dedicated roles for management and making sure that everyone is in sync when it comes to the design and development of the game. I have worked in teams of four since, and the projects have gotten much more smoothly when we ensured that everyone knew what the vision for the project was before we stared the bulk of the development.</p>
+:ET

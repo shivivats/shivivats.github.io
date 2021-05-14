@@ -1,11 +1,27 @@
 # Site
 name: "Shivi's Portfolio and Blog"
 title: "Shivi's Portfolio and Blog"
-description: "My Portfolio and Blog. Based on the Mediumish theme."
+description: "My Portfolio and Blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
-permalink: /:title/
+#permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: "_posts/portfolio" 
+    values:
+      permalink: /portfolio/:title/
+      excerpt_separator: <!--more-->
+  -
+    scope:
+      path: "_posts/blog" 
+    values:
+      permalink: /blog/:title/
+      excerpt_separator: <!--more-->
+
+
 
 # Authors
 authors:

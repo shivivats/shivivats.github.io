@@ -1,0 +1,29 @@
+I"�<p>Phantom Chess is an <strong>auto-chess</strong> game built for <a href="https://itch.io/jam/geta-game-jam-8">Geta Game Jam 8</a>. The player plays against the AI and tries to reach the highest level they can. The game goes on till the player loses. It functions as a regular auto-chess game where the player can buy/sell units, upgrade them via combining 3, and more functionalities.
+<!--more--></p>
+
+<p>The game was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I worked in a team of two on this, as a <strong>gameplay programmer</strong>. I programmed the combat, movement and combination functionalities that were core to the game, among other features.</p>
+
+<p>Here’s a gameplay video:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SIABluFUO4M" title="Phantom Chess Gameplay Sample" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>The game can be found on itch.io <a href="https://geist-191.itch.io/phantom-chess">here</a>.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p>As with other game jams I participated in, I wanted to work with as many of my friends as possible. And since I had never developed alone with this one friend of mine, we decided to make a game together. <a href="https://itch.io/jam/geta-game-jam-8">Geta Game Jam 8</a> was coming up and we decided to participate in it.</p>
+
+<h4 id="design-choices">Design Choices</h4>
+
+<p>The theme of the jam was “Dreams and Nightmares”. Since the Auto-Chess genre was starting to get popular around the time, we decided to try our hand at making an Auto-Chess game. However, we knew that making a full-fledged multiplayer game was out of our scope since we did not have the time or experience for it. We decided to implement the basic functionality of an auto-chess game (buying/selling units, combining units, progressing levels, etc) and we’d go from there depending on how much time we had left for the jam.</p>
+
+<p>For the theme, we decided to have two kinds of units, ones belonging to the “dreams” side, with units such as a priest or an angel. And the “nightmare” side having their counterparts such as a “shadow being” or a “dark priest”. We managed to get the core auto-chess functionality developed and decided to spend the rest of the time polishing what we already had and balacing the difficulty of the levels.</p>
+
+<p>Overall, I was happy with what we created and it remains one of my favourite games that I’ve developed.</p>
+
+<h4 id="what-i-learnt">What I learnt</h4>
+
+<p>My teammate during this project was one of the people I had troubles working before. However, I learnt to put those issues behind and approach this project with a clear and open mind. And it worked very well! We had a fun time and as a result the game developed at the end was well polished and was a product we were happy with. This was also the first isometric 3D game I had ever worked on, and learning to work in such an environment was also a good experience.</p>
+:ET

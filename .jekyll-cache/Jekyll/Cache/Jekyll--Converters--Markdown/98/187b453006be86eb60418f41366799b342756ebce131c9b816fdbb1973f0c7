@@ -1,0 +1,39 @@
+I"5<p>Kind Companion is an Android app developed to <strong>help people deal with anxiety</strong>. I developed it alone over a course of 3 months as part of my internship at my <a href="https://www.aau.at/en/">university</a>. I also used this project as a way to learn how to make Android apps in <strong>Android Studio</strong> using <strong>JAVA</strong> and <strong>XML</strong>.
+<!--more-->
+Some functionalities implemented in the app are:</p>
+
+<ul>
+  <li>Room Database with LiveData and ViewModel</li>
+  <li>Audio Recorder, Camera and Image Chooser</li>
+  <li>Custom Alert Dialogues</li>
+  <li>Orientation-specific Layouts</li>
+</ul>
+
+<p>Here are some screenshots:</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_kindcompanion">
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-1.png" title="" alt="Kind Companion Image 1" />
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-2.png" title="" alt="Kind Companion Image 2" />
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-3.png" title="" alt="Kind Companion Image 3" />
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-4.png" title="" alt="Kind Companion Image 4" />
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-5.png" title="" alt="Kind Companion Image 5" />
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-6.png" title="" alt="Kind Companion Image 6" />
+  <img data-src="" data-src-2x="" src="/assets/images/kindcompanion/kc-7.png" title="" alt="Kind Companion Image 7" />
+  </div>
+
+<p>The app is currently in <a href="https://play.google.com/apps/testing/com.shivivats.kindcompanion">open beta on the Play Store</a> and <a href="https://github.com/shivivats/Kind-Companion">here</a> is the source code on GitHub.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p>As part of my <a href="https://www.aau.at/en/studien/master-game-studies-and-engineering/">Masters degree</a>, I had to do an internship, working for atleast 250 hours and having some proof-of-work at the end. I wanted to work on a project related to mental health as I had been interested in the field for quite some time. With the guidance of one of my professors, I decided to make an Android app focusing on helping people deal with anxiety. As soon as I started out, I knew that I wanted to make this an app worth releasing on to the Play Store. However, having never worked on an Android app before, I understood the challenge and made sure to get accquainted with the basics before I delved into development.</p>
+
+<h4 id="design-choices-and-what-i-learnt">Design Choices and What I learnt</h4>
+
+<p>I had to write a 3000-word report on the internship for my University. I will take parts from that report and put them here in the near future.</p>
+
+:ET

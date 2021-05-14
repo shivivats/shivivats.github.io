@@ -1,0 +1,37 @@
+I"�<p>Robo Chase is a <strong>local two-player retro platformer</strong>, with one player playing as a cop chasing to catch the other player playing as a robot, while avoiding a wall of laser coming at them, among other obstacles and traps. It’s played on a split screen and the game ends when either player dies, the cop catches the robot or the robot makes it to the end of the level. <!--more--></p>
+
+<p>The game was made as an entry to the <a href="https://itch.io/jam/retro-platformer-jam">Retro Platformer Jam</a>, and we ended up getting 1st place in the “Technical” category. It was built using the <strong>Unity3D</strong> engine and written in <strong>C#</strong>. I <strong>worked with a friend</strong> on it and while he took up the role of artist and programmer, I <strong>mainly programmed</strong>. We implemented <strong>two levels</strong> (an easy and a difficult one), chosen at random for the players. The game can also be played in single-player mode with the players as the cop trying to catch the robot.</p>
+
+<p>Some screenshots of the game are shown below.</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_robochase">
+  <img data-src="" data-src-2x="" src="/assets/images/robochase/robochase-1.png" title="" alt="Robo Chase Image 1" />
+  <img data-src="" data-src-2x="" src="/assets/images/robochase/robochase-2.png" title="" alt="Robo Chase Image 2" />
+  <img data-src="" data-src-2x="" src="/assets/images/robochase/robochase-3.png" title="" alt="Robo Chase Image 3" />
+  </div>
+
+<p>The game can be found on itch.io <a href="https://shivivats.itch.io/robo-chase">here</a>.</p>
+
+<p>Following are some of my thoughts on the overall experience of developing this game. If you prefer to not read the rest of the post, you can go back to the blog home by clicking <a href="/index.html">here</a>.</p>
+
+<h4 id="background">Background</h4>
+
+<p>I had just moved to Austria a few weeks ago, I knew no one and barely spoke the language. However I made a friend quite early on and we decided that what better way to get to know each other than to work on a game together! We picked that <a href="https://itch.io/jam/retro-platformer-jam">game jam</a> in particular as it fell on the only free weekend we had before the game jam held at our university. We were already planning to participate in the <a href="https://itch.io/jam/2nd-winter-game-jam">university’s game jam</a> as a team so we wanted to get some experience working together beforehand.</p>
+
+<h4 id="design-choices">Design Choices</h4>
+
+<p>We both had prior programming experience, and also experience with Unity so we decided to make things a bit harder for ourselves by trying to program a two-player game as neither of us had done that before. We were also excited that the jam dictated the game should be played with a controller since, at the time, we didn’t know how to configure Unity to use a controller and we wanted to learn.</p>
+
+<p>The jam’s theme was Cyberpunk. So we decided to go with the classic “robot gone rogue” setting, with a cop trying to catch it. The game was a lot of firsts for us, and we scrapped quite a few features that we had planned, simply because we didn’t estimate how long it would take for certain core features to be implemented. We also intended for the game to be two-player only but we soon realised that the person rating the game would be playing alone so we implemented a single-player mode, which wasn’t part of our initial plan.</p>
+
+<p>The game ended up being somewhat rushed, but we implemented the core features and the final game had the essence that we wanted to go for.</p>
+
+<h4 id="what-i-learnt">What I learnt</h4>
+
+<p>As with most projects I make, I challenge myself to try something I haven’t tried before. For this, it was multiplayer, audio controller and working in a team. I experienced what it was like having to match another person’s pace and to meet their expectations. I’ve definitely learnt from it and applied it to other projects. It was also one of my first times working with Unity3D and C#, and since then I’ve grown much more confident at using those tools.</p>
+
+<p>In the end, the game holds a special place in my heart as I believe sitting together and gaming with your friends is one of the best experiences in life and I was glad that we could make a game that somewhat fit the dying couch multiplayer genre. Because, even though it was an unfinished product, it was still fun to play with a friend!</p>
+:ET
