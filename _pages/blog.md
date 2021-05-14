@@ -1,30 +1,22 @@
 ---
 layout: default
-title: Home
+title: Blog Home
+permalink: /blog
+comments: false
 ---
 
-{% if page.url == "/" %}
-
-<!-- Site Title
-================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-</div>
 
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
     <div class="section-title">
-        <h2><span>Featured Projects</span></h2>
+        <h2><span>Featured Posts</span></h2>
     </div>
     <div class="row">
 
     {% for post in site.posts %}
 
-    {% if post.path contains "portfolio" %}
+    {% if post.path contains "blog" %}
 
         {% if post.featured == true %}
 
@@ -39,15 +31,13 @@ title: Home
     </div>
 </section>
 
-{% endif %}
-
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
 
-        <h2><span>All Projects</span></h2>
+        <h2><span>All Posts</span></h2>
 
     </div>
 
@@ -55,7 +45,7 @@ title: Home
 
         {% for post in site.posts %}
 
-             {% if post.path contains "portfolio" %}
+             {% if post.path contains "blog" %}
 
                 {% include postbox.html %}
 
