@@ -1,10 +1,9 @@
 ---
 layout: default
-img: dog.png
+img: technical-blog-sample-image.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: My Technical Blog
+title_link: https://shivivats.github.io/blog/
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  My blog focusing on more "technical" topics. These range from my thoughts on various programming languages I've tried, to hobby projects I've worked on that didn't make it into the portfolio, to "development log" style blog posts regarding some stuff I'm working on at the present moment. Just an outlet for my thougts.

@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: programming-sample-image.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: My Programming Portfolio
+title_link: https://shivivats.github.io/portfolio/
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Take a look at the projects that I've made over the past few years! Mostly focused on Game Development, but I like to experiment and try to make all kinds of different things using programming. More about that in my technical blog.

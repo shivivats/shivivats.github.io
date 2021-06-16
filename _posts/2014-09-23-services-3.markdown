@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: food-blog-sample-image.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: My Food Blog
+title_link: https://shivivats.github.io/food-blog/
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  My other blog. This one stems out of my passion for food and cooking. I'll post thoughts about my cooking and baking journey. Talking about a recipe I tried that I really liked, to perhaps posting some of my own recipes. And also my thoughts from my experience of teaching myself how to bake and cook with the help of the Internet during the 2020 COVID-19 lockdowns.
