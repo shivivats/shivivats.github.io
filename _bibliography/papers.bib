@@ -1,12 +1,24 @@
 ---
 ---
 
+@inproceedings{nguyen2024compeq,
+  title={ComPEQ–MR: Compressed Point Cloud Dataset with Eye Tracking and Quality Assessment in Mixed Reality},
+  author={Nguyen, Minh and Vats, Shivi and Zhou, Xuemei and Viola, Irene and Cesar, Pablo and Timmerer, Christian and Hellwagner, Hermann},
+  booktitle={ACM MMSys 2024 (not yet published)},
+  abstract={Point clouds (PCs) have attracted researchers and developers due to their ability to provide immersive experiences with six degrees of freedom (6DoF). However, there are still several open issues in understanding the Quality of Experience (QoE) and visual attention of end users while experiencing 6DoF volumetric videos. First, encoding and decoding point clouds require a significant amount of both time and computational resources. Second, QoE prediction models for dynamic point clouds in 6DoF have not yet been developed due to the lack of visual quality databases. Third, visual attention in 6DoF is hardly explored, which impedes research into more sophisticated approaches for adaptive streaming of dynamic point clouds. In this work, we provide an open-source Compressed Point cloud dataset with Eye-tracking and Quality assessment in Mixed Reality (ComPEQ–MR). The dataset comprises four compressed dynamic point clouds processed by Moving Picture Experts Group (MPEG) reference tools (i.e., VPCC and GPCC), each with 12 distortion levels. We also conducted subjective tests to assess the quality of the compressed point clouds with different levels of distortion. The rating scores are attached to ComPEQ–MR so that they can be used to develop QoE prediction models in the context of MR environments. Additionally, eye-tracking data for visual saliency is included in this dataset, which is necessary to predict where people look when watching 3D videos in MR experiences. We collected opinion scores and eye-tracking data from 41 participants, resulting in 2132 responses and 164 visual attention maps in total. The dataset is available at https://ftp.itec.aau.at/datasets/ComPEQ-MR/.}, 
+  year={2024},
+  code={https://ftp.itec.aau.at/datasets/ComPEQ-MR/}
+}
+
+
 @inproceedings{nguyen2024no,
   title={No-Reference Quality of Experience Model for Dynamic Point Clouds in Augmented Reality},
   author={Nguyen, Minh and Vats, Shivi and Hellwagner, Hermann},
   booktitle={Proceedings of the 3rd Mile-High Video Conference},
   pages={90--91},
-  year={2024}
+  year={2024},
+  code={https://github.com/minhkstn/itu-p1203-point-clouds},
+  website={https://dl.acm.org/doi/abs/10.1145/3638036.3640248}
 }
 
 @article{nguyen2023characterization,
@@ -14,32 +26,42 @@
   author={Nguyen, Minh and Vats, Shivi and Van Damme, Sam and Van der Hooft, Jeroen and Vega, Maria Torres and Wauters, Tim and De Turck, Filip and Timmerer, Christian and Hellwagner, Hermann},
   journal={Ieee Access},
   year={2023},
-  publisher={IEEE}
+  publisher={IEEE},
+  abstract={Point cloud streaming has recently attracted research attention as it has the potential to provide six degrees of freedom movement, which is essential for truly immersive media. The transmission of point clouds requires high-bandwidth connections, and adaptive streaming is a promising solution to cope with fluctuating bandwidth conditions. Thus, understanding the impact of different factors in adaptive streaming on the Quality of Experience (QoE) becomes fundamental. Point clouds have been evaluated in Virtual Reality (VR), where viewers are completely immersed in a virtual environment. Augmented Reality (AR) is a novel technology and has recently become popular, yet quality evaluations of point clouds in AR environments are still limited to static images. In this paper, we perform a subjective study of four impact factors on the QoE of point cloud video sequences in AR conditions, including encoding parameters (quantization parameters, QPs), quality switches, viewing distance, and content characteristics. The experimental results show that these factors significantly impact the QoE. The QoE decreases if the sequence is encoded at high QPs and/or switches to lower quality and/or is viewed at a shorter distance, and vice versa. Additionally, the results indicate that the end user is not able to distinguish the quality differences between two quality levels at a specific (high) viewing distance. An intermediate-quality point cloud encoded at geometry QP (G-QP) 24 and texture QP (T-QP) 32 and viewed at 2.5m can have a QoE (i.e., score 6.5 out of 10) comparable to a high-quality point cloud encoded at 16 and 22 for G-QP and T-QP, respectively, and viewed at a distance of 5 m. Regarding content characteristics, objects with lower contrast can yield better quality scores. Participants’ responses reveal that the visual quality of point clouds has not yet reached an immersion level as desired. The average QoE of the highest visual quality is less than 8 out of 10. There is also a good correlation between objective metrics (e.g., color Peak Signal-to-Noise Ratio (PSNR) and geometry PSNR) and the QoE score. Especially the Pearson correlation coefficients of color PSNR is 0.84. Finally, we found that machine learning models are able to accurately predict the QoE of point clouds in AR environments. The subjective test results and questionnaire responses are available on GitHub: https://github.com/minhkstn/QoE-and-Immersion-of-Dynamic-Point-Cloud.},
+  website={https://ieeexplore.ieee.org/abstract/document/10288458/},
+  code={https://github.com/minhkstn/QoE-and-Immersion-of-Dynamic-Point-Cloud}
 }
 
 @inproceedings{vats2023platform,
-  title={A platform for subjective quality assessment in mixed reality environments},
+  title={A Platform for Subjective Quality Assessment in Mixed Reality Environments},
   author={Vats, Shivi and Nguyen, Minh and Van Damme, Sam and van der Hooft, Jeroen and Vega, Maria Torres and Wauters, Tim and Timmerer, Christian and Hellwagner, Hermann},
   booktitle={2023 15th International Conference on Quality of Multimedia Experience (QoMEX)},
   pages={131--134},
   year={2023},
-  organization={IEEE}
+  organization={IEEE},
+  abstract={3D objects are important components in Mixed Reality (MR) environments as they allow users to inspect and interact with them in a six degrees of freedom (6DoF) system. Point clouds (PCs) and meshes are two common 3D object representations that can be compressed to reduce the delivered data at the cost of quality degradation. In addition, as the end users can move around in 6DoF applications, the viewing distance can vary. Quality assessment is necessary to evaluate the impact of the compressed representation and viewing distance on the Quality of Experience (QoE) of end users. This paper presents a demonstrator for subjective quality assessment of dynamic PC and mesh objects under different conditions in MR environments. Our platform allows conducting subjective tests to evaluate various QoE influence factors, including encoding parameters, quality switching, viewing distance, and content characteristics, with configurable settings for these factors.},
+  code={https://github.com/shivivats-aau/MR-Subjective-Testing-Platform},
+  website={https://ieeexplore.ieee.org/abstract/document/10178443/}
 }
 
 @inproceedings{nguyen2023impact,
-  title={Impact of quality and distance on the perception of point clouds in mixed reality},
+  title={Impact of Quality and Distance on the Perception of Point Clouds in Mixed Reality},
   author={Nguyen, Minh and Vats, Shivi and Van Damme, Sam and Van Der Hooft, Jeroen and Vega, Maria Torres and Wauters, Tim and Timmerer, Christian and Hellwagner, Hermann},
   booktitle={2023 15th International Conference on Quality of Multimedia Experience (QoMEX)},
   pages={87--90},
   year={2023},
-  organization={IEEE}
+  organization={IEEE},
+  abstract={Point Cloud (PC) streaming has recently attracted research attention as it has the potential to provide six degrees of freedom (6DoF), which is essential for truly immersive media. PCs require high-bandwidth connections, and adaptive streaming is a promising solution to cope with fluctuating bandwidth conditions. Thus, understanding the impact of different factors in adaptive streaming on the Quality of Experience (QoE) becomes fundamental. Mixed Reality (MR) is a novel technology and has recently become popular. However, quality evaluations of PCs in MR environments are still limited to static images. In this paper, we perform a subjective study on four impact factors on the QoE of PC video sequences in MR conditions, including quality switches, viewing distance, and content characteristics. The experimental results show that these factors significantly impact QoE. The QoE decreases if the sequence switches to lower quality and/or is viewed at a shorter distance, and vice versa. Additionally, the end user might not distinguish the quality differences between two quality levels at a specific viewing distance. Regarding content characteristics, objects with lower contrast seem to provide better quality scores.},
+  website={https://ieeexplore.ieee.org/abstract/document/10178491/}
 }
 
 @inproceedings{vats2022semantic,
-  title={Semantic-aware view prediction for 360-degree videos at the 5g edge},
+  title={Semantic-aware View Prediction for 360-degree Videos at the 5G Edge},
   author={Vats, Shivi and Park, Jounsup and Nahrstedt, Klara and Zink, Michael and Sitaraman, Ramesh and Hellwagner, Hermann},
   booktitle={2022 IEEE International Symposium on Multimedia (ISM)},
   pages={121--128},
   year={2022},
-  organization={IEEE}
+  organization={IEEE},
+  abs={In a 5G testbed, we use 360° video streaming to test, measure, and demonstrate the 5G infrastructure, including the capabilities and challenges of edge computing support. Specifically, we use the SEAWARE (Semantic-Aware View Prediction) software system, originally described in [1], at the edge of the 5G network to support a 360° video player (handling tiled videos) by view prediction. Originally, SEAWARE performs semanticanalysis of a 360° video on the media server, by extracting, e.g., important objects and events. This video semantic information is encoded in specific data structures and shared with the client in a DASH streaming framework. Making use of these data structures, the client/player can perform view prediction without in-depth, computationally expensive semantic video analysis. In this paper, the SEAWARE system was ported and adapted to run (partially) on the edge where it can be used to predict views and prefetch predicted segments/tiles in high quality in order to have them available close to the client when requested. The paper gives an overview of the 5G testbed, the overall architecture, and the implementation of SEAWARE at the edge server. Since an important goal of this work is to achieve low motion-toglass latencies, we developed and describe “tile postloading”, a technique that allows non-predicted tiles to be fetched in high quality into a segment already available in the player buffer. The performance of 360° tiled video playback on the 5G infrastructure is evaluated and presented. Current limitations of the 5G network in use and some challenges of DASH-based streaming and of edge-assisted viewport prediction under “realworld” constraints are pointed out; further, the performance benefits of tile postloading are disclosed.},
+  website={https://ieeexplore.ieee.org/abstract/document/10019680/}
 }
