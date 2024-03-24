@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shivivats
+  - shivivats-aau
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - shivivats-aau/MR-Subjective-Testing-Platform
+  - shivivats/KCGL_Platformer
+  - shivivats/Kind-Companion
+  - shivivats/SpellSlinger
+  - shivivats/UE4_StealthGame
+  - shivivats/UE4_CoopGame

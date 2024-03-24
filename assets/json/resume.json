@@ -1,156 +1,190 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Shivi Vats",
+    "Pronouns": "They/He",
+    "Position": "Researcher and Project Assistant",
+    "image": "img/prof_pic.jpg",
+    "email": "shivivats7@gmail.com",
+    "phone": "",
+    "url": "https://shivivats.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "9020",
+      "city": "Klagenfurt",
+      "countryCode": "AT",
+      "region": "Carinthia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "shivivats",
+        "url": "https://www.linkedin.com/in/shivivats/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Klagenfurt",
+      "position": "Project Assistant",
+      "url": "https://5gplayground.at/en/",
+      "startDate": "10.2020",
+      "endDate": "04.2022",
+      "summary": "Part-time Project Assistant at the 5G Playground Use Case 'Virtual Realities'. Developed 5G edge systems for 360-degree video streaming using view prediction. Modified DASH clients for lower latency.",
+      "highlights": [
+        "Edge Computing",
+        "5G Networks",
+        "On-demand 360-degree Video Streaming",
+        "Android App Development",
+        "Flask, Celery, Redis, Passenger",
+        "NGINX"
+      ]
+    },
+    {
+      "name": "University of Klagenfurt",
+      "position": "Project Assistant",
+      "url": "https://www.spirit-project.eu/",
+      "startDate": "05.2022",
+      "endDate": "PRESENT",
+      "summary": "Full-time Project Assistant with the SPIRIT Project. Responsible for subjective quality of experience testing, training objective quality of experience models, and developing platforms for the HoloLens 2 and Meta Quest 3.",
+      "highlights": [
+        "Objective Models",
+        "Quality of Experience",
+        "Mixed/Extended Reality",
+        "Subjective Tests",
+        "Unity Development"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "University of Klaegnfurt, Austria",
+      "position": "Master-level Lecturer",
+      "url": "https://www.aau.at/",
+      "startDate": "12.2018",
+      "summary": "Explained the basics of Unity to master's students by demonstrating how to make a small 2D platformer in a 2-hour lecture.",
+      "highlights": [
+        "2D Game Development using Unity"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Klagenfurt",
+      "location": "Klagenfurt, Austria",
+      "url": "https://www.aau.at/",
+      "area": "Game Studies and Engineering",
+      "studyType": "Master of Science",
+      "startDate": "10.2018",
+      "endDate": "04.2022",
+      "score": "1.5 out of 4",
+      "courses": [
+        "Augmented Reality in Video Games",
+        "Knowledge Representation and Reasoning in Games",
+        "Virtual Ethics",
+        "Gender Studies",
+        ""
+      ]
+    },
+    {
+      "institution": "Indian Institute of Information Technology",
+      "location": "Una, India",
+      "url": "https://iiitu.ac.in/",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "08.2014",
+      "endDate": "05.2018",
+      "score": "7.5 out of 10",
+      "courses": [
+        "Data Structures",
+        "Object-Oriented Programming",
+        "Computer Networking",
+        "Introduction to AI"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Tuition Fee Reimbursement",
+      "date": "2018 to 2020",
+      "awarder": "University of Klagenfurt, Austria",
+      "url": "https://www.aau.at/",
+      "summary": "Achieved full tuition fee reimbursement for four semesters (the maximum allowed) based on academic performance."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "ComPEQ--MR: Compressed Point Cloud Dataset with Eye Tracking and Quality Assessment in Mixed Reality",
+      "publisher": "15th ACM Multimedia Systems Conference (MMSys '24)",
+      "releaseDate": "Accepted",
+      "url": "",
+      "summary": "A dataset based on a subjective study on the visual saliency and impact of quality for dynamic point clouds."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "No-Reference Quality of Experience Model for Dynamic Point Clouds in Augmented Reality",
+      "publisher": "Proceedings of the 3rd Mile-High Video Conference (MHV '24)",
+      "releaseDate": "11.2.2024",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3638036.3640248",
+      "summary": "A no-reference QoE model for dynamic point clouds based on the ITU-T P.1203 model for QoE of 2D videos. Model is trained using our subjective video dataset."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Characterization of the Quality of Experience and Immersion of Point Cloud Video Sequences through a Subjective Study",
+      "publisher": "IEEE Access",
+      "releaseDate": "20.10.2023",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10288458/",
+      "summary": "Journal paper discussing quality of experience of point cloud streaming using results from our subjective tests to gather conclusions and evaluate QoE models."
+    },
+    {
+      "name": "A Platform for Subjective Quality Assessment in Mixed Reality Environments",
+      "publisher": "15th International Conference on Quality of Multimedia Experience (QoMEX '23)",
+      "releaseDate": "20.06.2023",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10178443/",
+      "summary": "A modular platform built for the HoloLens 2 to perform subjective tests with dynamic point clouds."
+    },
+    {
+      "name": "Impact of Quality and Distance on the Perception of Point Clouds in Mixed Reality",
+      "publisher": "15th International Conference on Quality of Multimedia Experience (QoMEX '23)",
+      "releaseDate": "20.06.2023",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10178491/",
+      "summary": "Results from a subjective study on the impact of distance and compression levels on the perceived quality of point clouds."
+    },
+    {
+      "name": "Semantic-aware View Prediction for 360-degree Videos at the 5G Edge",
+      "publisher": "2022 IEEE International Symposium on Multimedia (ISM '22)",
+      "releaseDate": "05.12.2022",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10019680/",
+      "summary": "View prediction for 360-degree video streaming deployed at the 5G edge along with modifications to the DASH client to minimise motion-to-glass latency."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -158,42 +192,46 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Univ.-Prof. Dipl.-Ing. Dr. Hermann Hellwagner",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "email": "hermann.hellwagner@aau.at",
+      "reference": "Master thesis supervisor and project leader for SPIRIT project."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Assoc. Prof. Dipl.-Ing. Dr. Mathias Lux",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "email": "mathias.lux@aau.at",
+      "reference": "Game engineering professor and master thesis co-supervisor."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
