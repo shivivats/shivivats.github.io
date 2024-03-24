@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Project Assistant for the <a href='https://www.spirit-project.eu/'>SPIRIT Project</a> at <a href='https://itec.aau.at/'>ITEC</a>, University of Klagenfurt.
+subtitle: Project Assistant for the <a href='https://www.spirit-project.eu/'>SPIRIT Project</a> at <a href='https://itec.aau.at/'>ITEC</a>, <a href="https://www.aau.at/">University of Klagenfurt</a>.
 
 profile:
   align: right
@@ -25,13 +25,18 @@ Hi all! I'm Shivi, a researcher at the [University of Klagenfurt, Austria](https
 
 ### Past
 
-I have a [Masters in Game Studies and Engineering](https://www.aau.at/en/studien/master-game-studies-and-engineering/), throughout the course of which I studied how to critically analyse games and some advanced topics related to developing them. I have a huge passion for video games, and while I have been out of game development for a few years, I am getting back into it now with Unreal Engine 5. You can check out my game development projects (on this site)(/projects) or on [zarroc.itch.io](https://zarroc.itch.io/).
+I have a [Masters in Game Studies and Engineering](https://www.aau.at/en/studien/master-game-studies-and-engineering/), throughout the course of which I studied how to critically analyse games and some advanced topics related to developing them. I have a huge passion for video games, and while I have been out of game development for a few years, I am getting back into it now with Unreal Engine 5. You can check out my game development projects [on this site](/projects) or on [zarroc.itch.io](https://zarroc.itch.io/).
 
 I've also been messing about with various programming-related projects, such as developing discord bots .....
 
 ### Future
 
-I'd like to transition to an industry role in software development with either Python, C#, or game development with Unity or Unreal Engine. I'm brushing up on my skills with ....
+I'd like to transition to a more software-development focused role with:
+- desktop or webapp development,
+- research software development, or
+- game development with either Unity or Unreal Engine.
+
+I have relevant experience for all these fields and ....
 
 ### Misc.
 
