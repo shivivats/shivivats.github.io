@@ -2,24 +2,46 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Project Assistant for the <a href='https://www.spirit-project.eu/'>SPIRIT Project</a> at <a href='https://itec.aau.at/'>ITEC</a>, University of Klagenfurt.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Information Technology (ITEC)</p>
+    <p>University of Klagenfurt</p>
+    <p>9020 Austria</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Sorry if you're seeing this right now. This website is a WIP.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi all! I'm Shivi, a researcher at the [University of Klagenfurt, Austria](https://www.aau.at/). I've been working in this position for **3+ years** now on multiple [research](https://5gplayground.at/use-cases/#virtual-reality) [projects](https://www.spirit-project.eu/). I've worked with technologies ranging from [viewport prediction algorithms](https://ieeexplore.ieee.org/abstract/document/10019680/) to [Python web applications](https://ieeexplore.ieee.org/abstract/document/10019680/) to [developing AR apps in Unity for the HoloLens 2](https://ieeexplore.ieee.org/abstract/document/10178443/). In the meanwhile, I've also written a Masters Thesis and published [5 papers](/publications) relating to my work.
 
+### Past
+
+I have a [Masters in Game Studies and Engineering](https://www.aau.at/en/studien/master-game-studies-and-engineering/), throughout the course of which I studied how to critically analyse games and some advanced topics related to developing them. I have a huge passion for video games, and while I have been out of game development for a few years, I am getting back into it now with Unreal Engine 5. You can check out my game development projects (on this site)(/projects) or on [zarroc.itch.io](https://zarroc.itch.io/).
+
+I've also been messing about with various programming-related projects, such as developing discord bots .....
+
+### Future
+
+I'd like to transition to an industry role in software development with either Python, C#, or game development with Unity or Unreal Engine. I'm brushing up on my skills with ....
+
+### Misc.
+
+- I love to run TTRPG games. I've ran many one-shots along with a short-form campaign in a homebrewed world using D&D 5e and few one-shots with [Mausritter](https://mausritter.com/).
+- I'm a huge Pokemon nerd. But Skyrim, The Witcher 3, the Ori games, and Bloodborne are a few of my other favourites as well.
+- I love music. I used to play the guitar and I'm now learning to play the drums. Plan to take singing lessons in the future!
+- I dont use Facebook, Twitter, and the like, so please contact me via [email](mailto:shivivats7@gmail.com) (or [LinkedIn](https://www.linkedin.com/in/shivivats/)).
+
+
+
+<!--
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+//-->
