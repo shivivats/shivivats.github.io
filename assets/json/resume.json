@@ -30,7 +30,7 @@
       "url": "https://5gplayground.at/en/",
       "startDate": "10.2020",
       "endDate": "04.2022",
-      "summary": "Part-time Project Assistant at the 5G Playground Use Case 'Virtual Realities'. Developed 5G edge systems for 360-degree video streaming using view prediction. Modified DASH clients for lower latency.",
+      "summary": "Part-time Project Assistant at the 5G Playground Use Case 'Virtual Realities'.\n Developed 5G edge systems for 360-degree video streaming using view prediction. Modified DASH clients for lower latency.",
       "highlights": [
         "Edge Computing",
         "5G Networks",
@@ -54,14 +54,27 @@
         "Subjective Tests",
         "Unity Development"
       ]
+    },
+    {
+      "name": "Klagenfurt Coding Game Lab, University of Klagenfurt",
+      "position": "Game Lab Tutor",
+      "url": "https://kcgl.aau.at/",
+      "startDate": "10.2020",
+      "endDate": "01.2021",
+      "summary": "Part-time Game Lab Tutor at the Klagenfurt Coding Game Lab. Held Twitch streams to students, teaching Unity game development with a 2D platformer, and answering questions on- and off-stream.",
+      "highlights": [
+        "Unity 2D Platformer",
+        "Teaching Game Development",
+        "Online Teaching"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "University of Klaegnfurt, Austria",
+      "organization": "University of Klagenfurt, Austria",
       "position": "Master-level Lecturer",
       "url": "https://www.aau.at/",
-      "startDate": "12.2018",
+      "date": "12.2018",
       "summary": "Explained the basics of Unity to master's students by demonstrating how to make a small 2D platformer in a 2-hour lecture.",
       "highlights": [
         "2D Game Development using Unity"
@@ -82,8 +95,7 @@
         "Augmented Reality in Video Games",
         "Knowledge Representation and Reasoning in Games",
         "Virtual Ethics",
-        "Gender Studies",
-        ""
+        "Gender Studies"
       ]
     },
     {
@@ -106,7 +118,7 @@
   "awards": [
     {
       "title": "Tuition Fee Reimbursement",
-      "date": "2018 to 2020",
+      "date": "2018 -- 2020",
       "awarder": "University of Klagenfurt, Austria",
       "url": "https://www.aau.at/",
       "summary": "Achieved full tuition fee reimbursement for four semesters (the maximum allowed) based on academic performance."
@@ -114,18 +126,18 @@
   ],
   "certificates": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
+      "date": "05.2021",
+      "issuer": "Tom Looman/Udemy",
+      "url": "assets/pdf/tom-looman-udemy-course-certificate.pdf",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "",
       "date": "",
       "issuer": "",
       "url": "",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [
@@ -172,16 +184,6 @@
       "summary": "View prediction for 360-degree video streaming deployed at the 5G edge along with modifications to the DASH client to minimise motion-to-glass latency."
     }
   ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        ""
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Hindi",
@@ -199,39 +201,18 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        ""
-      ]
-    }
-  ],
   "references": [
     {
       "name": "Univ.-Prof. Dipl.-Ing. Dr. Hermann Hellwagner",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-school",
       "email": "hermann.hellwagner@aau.at",
       "reference": "Master thesis supervisor and project leader for SPIRIT project."
     },
     {
       "name": "Assoc. Prof. Dipl.-Ing. Dr. Mathias Lux",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-school",
       "email": "mathias.lux@aau.at",
       "reference": "Game engineering professor and master thesis co-supervisor."
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }

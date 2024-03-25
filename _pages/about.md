@@ -25,7 +25,7 @@ Hi all! I'm Shivi, a researcher at the [University of Klagenfurt, Austria](https
 
 ### Past
 
-I have a [Masters in Game Studies and Engineering](https://www.aau.at/en/studien/master-game-studies-and-engineering/), throughout the course of which I studied how to critically analyse games and some advanced topics related to developing them. I have a huge passion for video games, and while I have been out of game development for a few years, I am getting back into it now with Unreal Engine 5. You can check out my game development projects [on this site](/projects) or on [zarroc.itch.io](https://zarroc.itch.io/).
+I have a [Masters in Game Studies and Engineering](https://www.aau.at/en/studien/master-game-studies-and-engineering/), throughout the course of which I studied how to critically analyse games and some advanced topics related to developing them. I have a huge passion for video games, and while I have been out of game development for a few years, I am getting back into it now with Unreal Engine 5 (and unexpectedly, RenPy!). You can check out my game development projects [on this site](/projects) or on [zarroc.itch.io](https://zarroc.itch.io/).
 
 I've also been messing about with various programming-related projects, such as developing discord bots .....
 
@@ -40,10 +40,10 @@ I have relevant experience for all these fields and ....
 
 ### Misc.
 
-- I love to run TTRPG games. I've ran many one-shots along with a short-form campaign in a homebrewed world using D&D 5e and few one-shots with [Mausritter](https://mausritter.com/).
+- I love to run and play in TTRPG games. I've ran many one-shots along with a short-form campaign in a homebrewed world using [D&D 5e](https://dnd.wizards.com/) and few one-shots with [Mausritter](https://mausritter.com/).
 - I'm a huge Pokemon nerd. But Skyrim, The Witcher 3, the Ori games, and Bloodborne are a few of my other favourites as well.
 - I love music. I used to play the guitar and I'm now learning to play the drums. Plan to take singing lessons in the future!
-- I dont use Facebook, Twitter, and the like, so please contact me via [email](mailto:shivivats7@gmail.com) (or [LinkedIn](https://www.linkedin.com/in/shivivats/)).
+- I dont use Facebook, Twitter, and the like, so please contact me via [email](mailto:shivivats7@gmail.com) (or [LinkedIn](https://www.linkedin.com/in/shivivats/) can also work).
 
 
 

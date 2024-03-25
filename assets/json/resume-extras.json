@@ -1,0 +1,33 @@
+{
+    "projects": [
+        {
+            "name": "",
+            "summary": "",
+            "highlights": [
+                ""
+            ],
+            "startDate": "",
+            "endDate": "",
+            "url": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Intermediate",
+            "icon": "fa-solid fa-hashtag",
+            "keywords": [
+                "Flask, Celery, Redis"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "icon": "fa-solid fa-tag",
+            "keywords": [
+                ""
+            ]
+        }
+    ]
+}
