@@ -46,6 +46,17 @@ I have relevant experience for all these fields and ....
 - I dont use Facebook, Twitter, and the like, so please contact me via [email](mailto:shivivats7@gmail.com) (or [LinkedIn](https://www.linkedin.com/in/shivivats/) can also work).
 
 
+Check out my CV!
+
+My blog!
+
+Skills:
+Teamwork
+Version Control
+Presentation - Preparation and Presentation
+Meeting Organisation
+
+
 
 <!--
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
