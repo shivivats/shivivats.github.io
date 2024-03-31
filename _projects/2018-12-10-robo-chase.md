@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Robo Chase
-description: local two-player retro platformer
+description: Local Two-player Retro Platformer
 img: /assets/img/games/robochase/robo-chase-featured.png
 importance: 1
-category: work
-related_publications: true
+category: game-dev
+related_publications: false
 ---
 
 
@@ -32,7 +32,7 @@ The game can be found at [zarroc.itch.io/robo-chase](https://zarroc.itch.io/robo
     </div>
 </div>
 <div class="caption">
-    Some caption here.
+    Robo Chase Screenshots
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 embed-responsive embed-responsive-16by9 center-block">
@@ -40,10 +40,25 @@ The game can be found at [zarroc.itch.io/robo-chase](https://zarroc.itch.io/robo
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Robo Chase Gameplay Sample
+</div>
+
+<div class="modal in" id="viewImg" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+      </div>
+      <div class="modal-body">
+        <div id="imgViewer" style="overflow-x: scroll;">
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <br/>
+
 *Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the projects home by clicking [here](/projects).*
 
 
