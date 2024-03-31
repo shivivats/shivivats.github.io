@@ -1,6 +1,6 @@
 ---
-show_date: true
-last_modified_at: 2024-01-03
+
+
 title: "The System"
 excerpt: "Text-based game about DIssociative Identity Disorder"
 header:
@@ -50,7 +50,7 @@ The game can be found at [zarroc.itch.io/the-system](https://zarroc.itch.io/the-
 
 <br/>
 
-*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/portfolio).*
+*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 
 
 ## Background

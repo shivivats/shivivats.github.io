@@ -1,6 +1,6 @@
 ---
-show_date: true
-last_modified_at: 2023-12-04
+
+
 title: "Robo Chase"
 excerpt: "Local Two-Player Retro Platformer."
 header:
@@ -41,7 +41,7 @@ The game can be found at [zarroc.itch.io/robo-chase](https://zarroc.itch.io/robo
 <iframe width="640" height="360" src="https://www.youtube.com/embed/pC7kbHzRbIA?si=E2w1VmgWXESnpd6s" frameborder="0" allowfullscreen></iframe>
 
 <br/>
-*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/portfolio).*
+*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 
 
 ## Background

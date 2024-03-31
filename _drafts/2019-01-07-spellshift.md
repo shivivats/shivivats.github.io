@@ -1,6 +1,6 @@
 ---
-show_date: true
-last_modified_at: 2023-12-04
+
+
 title: "SpellShift"
 excerpt: "Top-down 2D alchemy game."
 header:
@@ -32,7 +32,7 @@ The game can be found at [geist-191.itch.io/spellshift](https://geist-191.itch.i
 
 <br/>
 
-*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/portfolio).*
+*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 
 
 ## Background

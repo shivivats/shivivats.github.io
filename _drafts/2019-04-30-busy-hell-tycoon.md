@@ -1,6 +1,6 @@
 ---
-show_date: true
-last_modified_at: 2023-12-05
+
+
 title: "Busy Hell Tycoon"
 excerpt: "2D strategic management game."
 header:
@@ -31,7 +31,7 @@ The game can be found at [zarroc.itch.io/busy-hell-tycoon](https://zarroc.itch.i
 
 <br/>
 
-*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/portfolio).*
+*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 
 
 ## Background

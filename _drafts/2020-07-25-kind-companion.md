@@ -1,6 +1,6 @@
 ---
-show_date: true
-last_modified_at: 2023-12-03
+
+
 title: "Kind Companion"
 excerpt: "Android app to help people deal with anxiety."
 header:
@@ -60,7 +60,7 @@ Here are some screenshots:
 {% include gallery id="gallery1" layout="quarter" %}
 <!-- caption="This is a sample gallery to go along with this case study." -->
 
-*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/portfolio).*
+*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 
 
 ## Background

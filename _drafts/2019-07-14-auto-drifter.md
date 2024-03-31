@@ -1,6 +1,6 @@
 ---
-show_date: true
-last_modified_at: 2024-01-03
+
+
 title: "Auto Drifter"
 excerpt: "Top-Down Racing Game"
 header:
@@ -31,7 +31,7 @@ The one-button and two-button versions of the game can be found at [zarroc.itch.
 
 <br/>
 
-*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/portfolio).*
+*Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 
 
 ## Background
