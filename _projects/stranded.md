@@ -3,7 +3,7 @@ layout: page
 title: Stranded
 description: 02.03.2019 — 2D Space-themed Platformer
 img: /assets/img/games/stranded/stranded-featured.png
-importance: 1
+importance: 4
 category: game-dev
 related_publications: false
 ---

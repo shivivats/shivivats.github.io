@@ -3,7 +3,7 @@ layout: page
 title: SpellSlinger
 description: 23.06.2019 — Augmented Reality Base Defense Game
 img: /assets/img/games/spellslinger/spell-slinger-featured.png
-importance: 1
+importance: 8
 category: game-dev
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Phantom Chess
 description: 08.07.2019 — 2.5D Auto-chess Game
 img: /assets/img/games/phantomchess/phantom-chess-featured.png
-importance: 1
+importance: 9
 category: game-dev
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: The System
 description: 16.06.2019 — Text-based Game About Dissociative Identity Disorder
 img: /assets/img/games/thesystem/the-system-featured.png
-importance: 1
+importance: 7
 category: game-dev
 related_publications: false
 ---

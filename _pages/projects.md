@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, game-dev, other-dev, non-programming]
+display_categories: [game-dev, work, other-dev, non-programming]
 horizontal: false
 ---
 

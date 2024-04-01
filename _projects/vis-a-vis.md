@@ -3,7 +3,7 @@ layout: page
 title: Vis À Vis
 description: 04.06.2019 — 3D First-person Atmospheric Horror Game
 img: /assets/img/games/visavis/vis-a-vis-featured.jpg
-importance: 1
+importance: 6
 category: game-dev
 related_publications: false
 ---

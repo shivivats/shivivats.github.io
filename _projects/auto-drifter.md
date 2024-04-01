@@ -3,7 +3,7 @@ layout: page
 title: Auto Drifter
 description: 14.07.2019 — Top-down 2D Racing Game
 img: /assets/img/games/autodrifter/autodrifter-featured.png
-importance: 1
+importance: 10
 category: game-dev
 related_publications: false
 ---

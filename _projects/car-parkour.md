@@ -3,7 +3,7 @@ layout: page
 title: Car Parkour
 description: 21.07.2019 — 3D Multiplayer Car Racing Game
 img: /assets/img/games/carparkour/car-parkour-featured.png
-importance: 1
+importance: 11
 category: game-dev
 related_publications: false
 ---

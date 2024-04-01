@@ -3,7 +3,7 @@ layout: page
 title: Deception Royale
 description: 16.12.2018 — 2D Top-down Multiplayer Battle Royale Game
 img: /assets/img/games/deceptionroyale/deception-royale-featured.png
-importance: 1
+importance: 2
 category: game-dev
 related_publications: false
 ---

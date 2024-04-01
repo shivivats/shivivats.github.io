@@ -3,7 +3,7 @@ layout: page
 title: Busy Hell Tycoon
 description: 30.04.2019 — 2D Strategic Resource Management Game
 img: /assets/img/games/busyhelltycoon/busy-hell-tycoon-featured.png
-importance: 1
+importance: 5
 category: game-dev
 related_publications: false
 ---
