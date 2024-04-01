@@ -1,22 +1,12 @@
 ---
-
-
-title: "Vis À Vis"
-excerpt: "3D first-person atmospheric horror game."
-header:
-  teaser: assets/images/games/visavis/vis-a-vis-featured.jpg
-sidebar:
-  - title: "Role"
-    teaser: assets/images/games/visavis/vis-a-vis-featured.jpg
-    image_alt: "logo"
-    text: "Lead programmer in a team of four"
-  - title: "Event"
-    text: "Extra Credits Game Jam #4"
-  - title: "Dates"
-    text: "June 2019"
+layout: page
+title: Vis À Vis
+description: 04.06.2019 — 3D First-person Atmospheric Horror Game
+img: /assets/img/games/visavis/vis-a-vis-featured.jpg
+importance: 1
+category: game-dev
+related_publications: false
 ---
-
-<!-- <img src="/assets/icons/github.svg" width="24" height="24"> [repo link]() -->
 
 Vis À Vis is a **3D first-person atmospheric horror** game. It was built for [Extra Credits Game Jam #4](https://itch.io/jam/extra-credits-game-jam-4). The player has to escape the world of mirrors they find themselves trapped in.
 
@@ -24,10 +14,14 @@ The game was built using **Unreal Engine 4** and written in **C++** and **Bluepr
 
 The game can be found at [dr4g0nsoul.itch.io/vis-vis](https://dr4g0nsoul.itch.io/vis-vis), and here’s a gameplay sample:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKgSpOs31mg" title="Vis À Vis Gameplay Sample" frameborder="0" allowfullscreen></iframe>
-
-<!-- {% include gallery id="gallery1" layout="half" %} -->
-<!-- caption="This is a sample gallery to go along with this case study." -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 embed-responsive embed-responsive-16by9 center-block">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PKgSpOs31mg" title="Vis À Vis Gameplay Sample" allowfullscreen></iframe>
+    </div>
+</div>
+<div class="caption">
+    Vis À Vis Gameplay Sample
+</div>
 
 <br/>
 

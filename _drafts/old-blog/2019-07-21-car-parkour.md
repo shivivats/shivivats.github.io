@@ -4,10 +4,10 @@
 title: "Car Parkour"
 excerpt: "3D Multiplayer Car Racing Game"
 header:
-  teaser: assets/images/games/carparkour/car-parkour-featured.png
+  teaser: assets/img/games/carparkour/car-parkour-featured.png
 sidebar:
   - title: "Role"
-    teaser: assets/images/games/carparkour/car-parkour-featured.png
+    teaser: assets/img/games/carparkour/car-parkour-featured.png
     image_alt: "logo"
     text: "Level Designer and Programmer"
   - title: "Event"

@@ -1,46 +1,13 @@
 ---
-
-
-title: "Kind Companion"
-excerpt: "Android app to help people deal with anxiety."
-header:
-  #image: /assets/img/kindcompanion/kind-companion-featured.png
-  teaser: /assets/img/kindcompanion/kind-companion-featured.png
-sidebar:
-  - title: "Role"
-    image: /assets/img/kindcompanion/kind-companion-featured.png
-    image_alt: "logo"
-    text: "Solo Developer and Partial Designer"
-  - title: "Event"
-    text: "Mandatory Internship"
-  - title: "Dates"
-    text: "May - July 2020"
-gallery1:
-  - url: /assets/img/kindcompanion/kc-home-page.png
-    image_path: assets/images/kindcompanion/kc-home-page.png
-    alt: "kindcompanion home page"
-  - url: /assets/img/kindcompanion/kc-controlled-breathing.png
-    image_path: assets/images/kindcompanion/kc-controlled-breathing.png
-    alt: "kindcompanion controlled breathing"
-  - url: /assets/img/kindcompanion/kc-note-example.png
-    image_path: assets/images/kindcompanion/kc-note-example.png
-    alt: "kindcompanion note example"
-  - url: /assets/img/kindcompanion/kc-note-reminder.png
-    image_path: assets/images/kindcompanion/kc-note-reminder.png
-    alt: "kindcompanion note reminder"
-  - url: /assets/img/kindcompanion/kc-painting.png
-    image_path: assets/images/kindcompanion/kc-painting.png
-    alt: "kindcompanion painting"
-  - url: /assets/img/kindcompanion/kc-settings-general.png
-    image_path: assets/images/kindcompanion/kc-settings-general.png
-    alt: "kindcompanion settings general page"
-  - url: /assets/img/kindcompanion/kc-settings-reminder.png
-    image_path: assets/images/kindcompanion/kc-settings-reminder.png
-    alt: "kindcompanion reminder settings"
-  - url: /assets/img/kindcompanion/kc-useful-knowledge.png
-    image_path: assets/images/kindcompanion/kc-useful-knowledge.png
-    alt: "kindcompanion useful knowledge"
+layout: page
+title: Kind Companion
+description: 25.07.2020 — Android App to Help People Deal with Anxiety
+img: /assets/img/games/kindcompanion/kind-companion-featured.png
+importance: 1
+category: other-dev
+related_publications: false
 ---
+
 
 <img src="/assets/icons/github.svg" width="24" height="24"> [shivivats/kind-companion](https://github.com/shivivats/Kind-Companion)
 
@@ -57,8 +24,43 @@ Some functionalities implemented in the app are:
 
 Here are some screenshots:
 
-{% include gallery id="gallery1" layout="quarter" %}
-<!-- caption="This is a sample gallery to go along with this case study." -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-home-page.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-controlled-breathing.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-note-example.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-note-reminder.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-painting.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-settings-general.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-settings-reminder.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/kindcompanion/kc-useful-knowledge.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    SpellSlinger Screenshots
+</div>
+
+<br/>
 
 *Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
 

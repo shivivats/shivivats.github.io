@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robo Chase
-description: Local Two-player Retro Platformer
+description: 10.12.2018 — Local Two-player Retro Platformer
 img: /assets/img/games/robochase/robo-chase-featured.png
 importance: 1
 category: game-dev
@@ -20,7 +20,7 @@ The game can be found at [zarroc.itch.io/robo-chase](https://zarroc.itch.io/robo
         {% include figure.liquid loading="eager" path="/assets/img/games/robochase/robo-chase-featured.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/games/robochase/robochase-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/games/robochase/robochase-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">

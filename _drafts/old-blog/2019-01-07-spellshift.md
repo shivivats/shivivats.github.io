@@ -4,10 +4,10 @@
 title: "SpellShift"
 excerpt: "Top-down 2D alchemy game."
 header:
-  teaser: assets/images/games/spellshift/spell-shift-featured.png
+  teaser: assets/img/games/spellshift/spell-shift-featured.png
 sidebar:
   - title: "Role"
-    teaser: assets/images/games/spellshift/spell-shift-featured.png
+    teaser: assets/img/games/spellshift/spell-shift-featured.png
     image_alt: "logo"
     text: "Programmer and level designer in a team of three."
   - title: "Event"

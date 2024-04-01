@@ -4,10 +4,10 @@
 title: "Auto Drifter"
 excerpt: "Top-Down Racing Game"
 header:
-  teaser: assets/images/games/autodrifter/autodrifter-featured.png
+  teaser: assets/img/games/autodrifter/autodrifter-featured.png
 sidebar:
   - title: "Role"
-    teaser: assets/images/games/autodrifter/autodrifter-featured.png
+    teaser: assets/img/games/autodrifter/autodrifter-featured.png
     image_alt: "logo"
     text: "Solo Developer"
   - title: "Event"

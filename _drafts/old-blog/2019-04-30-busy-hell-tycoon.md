@@ -4,10 +4,10 @@
 title: "Busy Hell Tycoon"
 excerpt: "2D strategic management game."
 header:
-  teaser: assets/images/games/busyhelltycoon/busy-hell-tycoon-featured.png
+  teaser: assets/img/games/busyhelltycoon/busy-hell-tycoon-featured.png
 sidebar:
   - title: "Role"
-    teaser: assets/images/games/busyhelltycoon/busy-hell-tycoon-featured.png
+    teaser: assets/img/games/busyhelltycoon/busy-hell-tycoon-featured.png
     image_alt: "logo"
     text: "One programmer in a team of four."
   - title: "Event"

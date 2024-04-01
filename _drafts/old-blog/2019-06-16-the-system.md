@@ -4,10 +4,10 @@
 title: "The System"
 excerpt: "Text-based game about DIssociative Identity Disorder"
 header:
-  teaser: assets/images/games/thesystem/the-system-featured.png
+  teaser: assets/img/games/thesystem/the-system-featured.png
 sidebar:
   - title: "Role"
-    teaser: assets/images/games/thesystem/the-system-featured.png
+    teaser: assets/img/games/thesystem/the-system-featured.png
     image_alt: "logo"
     text: "Writer"
   - title: "Event"

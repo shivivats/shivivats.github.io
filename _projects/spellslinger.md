@@ -1,29 +1,11 @@
 ---
-
-
-title: "SpellSlinger"
-excerpt: "Augmented Reality Base Defense Game"
-header:
-  teaser: assets/images/games/spellslinger/spell-slinger-featured.png
-sidebar:
-  - title: "Role"
-    teaser: assets/images/games/
-    image_alt: "logo"
-    text: "Lead Programmer"
-  - title: "Event"
-    text: "Course at University"
-  - title: "Dates"
-    text: "June 2019"
-gallery1:
-  - url: /assets/img/games/spellslinger/ss-1.png
-    image_path: /assets/img/games/spellslinger/ss-1.png
-    alt: ""
-  - url: /assets/img/games/spellslinger/ss-2.png
-    image_path: /assets/img/games/spellslinger/ss-2.png
-    alt: ""
-  - url: /assets/img/games/spellslinger/ss-3.png
-    image_path: /assets/img/games/spellslinger/ss-3.png
-    alt: ""
+layout: page
+title: SpellSlinger
+description: 23.06.2019 — Augmented Reality Base Defense Game
+img: /assets/img/games/spellslinger/spell-slinger-featured.png
+importance: 1
+category: game-dev
+related_publications: false
 ---
 
 <img src="/assets/icons/github.svg" width="24" height="24"> [shivivats/SpellSlinger](https://github.com/shivivats/SpellSlinger)
@@ -34,15 +16,30 @@ The game was built using the **Unity3D** engine and written in **C#**. I worked 
 
 The game can be found at [github.com/shivivats/SpellSlinger](https://github.com/shivivats/SpellSlinger), and here are some screenshots:
 
-<!-- <iframe width="560" height="315" src="" title="" frameborder="0" allowfullscreen></iframe> -->
 
-{% include gallery id="gallery1" layout="half" %}
-<!-- caption="This is a sample gallery to go along with this case study." -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/games/spellslinger/spell-slinger-featured.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/games/spellslinger/ss-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/games/spellslinger/ss-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/games/spellslinger/ss-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    SpellSlinger Screenshots
+</div>
 
 <br/>
 
 *Following are some of my thoughts on the overall experience of developing the app. If you prefer to not read the rest of the post, you can go back to the portfolio home by clicking [here](/projects).*
-
 
 ## Background
 

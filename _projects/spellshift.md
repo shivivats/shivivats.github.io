@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SpellShift
-description: Top-down 2D Alchemy Game
+description: 07.01.2019 — Top-down 2D Alchemy Game
 img: /assets/img/games/spellshift/spell-shift-featured.png
 importance: 1
 category: game-dev
