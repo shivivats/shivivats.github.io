@@ -6,7 +6,9 @@
     "image": "prof_pic.jpg",
     "email": "shivivats7@gmail.com",
     "phone": "",
-    "url": "https://shivivats.github.io/",
+    "Itch": "zarroc.itch.io/",
+    "LinkedIn": "linkedin.com/in/shivivats/",
+    "Website": "shivivats.github.io/",
     "summary": "",
     "location": {
       "address": "",
@@ -74,7 +76,7 @@
       "organization": "University of Klagenfurt, Austria",
       "position": "Master-level Lecturer",
       "url": "https://www.aau.at/",
-      "date": "12.18",
+      "date": "12.2018",
       "summary": "Explained the basics of Unity to master's students by demonstrating how to make a small 2D platformer in a 2-hour lecture.",
       "highlights": [
         "2D Game Development using Unity"
