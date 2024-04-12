@@ -28,8 +28,8 @@
       "name": "University of Klagenfurt",
       "position": "Project Assistant",
       "url": "https://5gplayground.at/en/",
-      "startDate": "10.2020",
-      "endDate": "04.2022",
+      "startDate": "10.20",
+      "endDate": "04.22",
       "summary": "Part-time Project Assistant at the 5G Playground Use Case 'Virtual Realities'.\n Developed 5G edge systems for 360-degree video streaming using view prediction. Modified DASH clients for lower latency.",
       "highlights": [
         "Edge Computing",
@@ -44,7 +44,7 @@
       "name": "University of Klagenfurt",
       "position": "Project Assistant",
       "url": "https://www.spirit-project.eu/",
-      "startDate": "05.2022",
+      "startDate": "05.22",
       "endDate": "PRESENT",
       "summary": "Full-time Project Assistant with the SPIRIT Project. Responsible for subjective quality of experience testing, training objective quality of experience models, and developing platforms for the HoloLens 2 and Meta Quest 3.",
       "highlights": [
@@ -59,8 +59,8 @@
       "name": "Klagenfurt Coding Game Lab, University of Klagenfurt",
       "position": "Game Lab Tutor",
       "url": "https://kcgl.aau.at/",
-      "startDate": "10.2020",
-      "endDate": "01.2021",
+      "startDate": "10.20",
+      "endDate": "01.21",
       "summary": "Part-time Game Lab Tutor at the Klagenfurt Coding Game Lab. Held Twitch streams to students, teaching Unity game development with a 2D platformer, and answering questions on- and off-stream.",
       "highlights": [
         "Unity 2D Platformer",
@@ -74,7 +74,7 @@
       "organization": "University of Klagenfurt, Austria",
       "position": "Master-level Lecturer",
       "url": "https://www.aau.at/",
-      "date": "12.2018",
+      "date": "12.18",
       "summary": "Explained the basics of Unity to master's students by demonstrating how to make a small 2D platformer in a 2-hour lecture.",
       "highlights": [
         "2D Game Development using Unity"
@@ -88,8 +88,8 @@
       "url": "https://www.aau.at/",
       "area": "Game Studies and Engineering",
       "studyType": "Master of Science",
-      "startDate": "10.2018",
-      "endDate": "04.2022",
+      "startDate": "10.18",
+      "endDate": "04.22",
       "score": "1.5 out of 4",
       "courses": [
         "Augmented Reality in Video Games",
@@ -104,8 +104,8 @@
       "url": "https://iiitu.ac.in/",
       "area": "Computer Science and Engineering",
       "studyType": "Bachelor of Technology",
-      "startDate": "08.2014",
-      "endDate": "05.2018",
+      "startDate": "08.14",
+      "endDate": "05.18",
       "score": "7.5 out of 10",
       "courses": [
         "Data Structures",
@@ -118,7 +118,7 @@
   "awards": [
     {
       "title": "Tuition Fee Reimbursement",
-      "date": "2018 -- 2020",
+      "date": "2018 — 2020",
       "awarder": "University of Klagenfurt, Austria",
       "url": "https://www.aau.at/",
       "summary": "Achieved full tuition fee reimbursement for four semesters (the maximum allowed) based on academic performance."
@@ -127,17 +127,17 @@
   "certificates": [
     {
       "name": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
-      "date": "05.2021",
-      "issuer": "Tom Looman/Udemy",
+      "date": "05.21",
+      "issuer": "Tom Looman on Udemy",
       "url": "assets/pdf/tom-looman-udemy-course-certificate.pdf",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "name": "Complete C# Unity Game Developer 2D",
+      "date": "10.18",
+      "issuer": "GameDev.tv on Udemy",
       "url": "",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [

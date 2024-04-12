@@ -4,7 +4,7 @@ title: Kind Companion
 description: 25.07.2020 — Android App to Help People Deal with Anxiety
 img: /assets/img/kindcompanion/kind-companion-featured.png
 importance: 1
-category: other-dev
+category: work
 related_publications: false
 ---
 

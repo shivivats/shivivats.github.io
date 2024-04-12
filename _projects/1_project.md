@@ -4,7 +4,7 @@ title: TITLE
 description: subtitle with a few words
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: none
 related_publications: true
 ---
 
