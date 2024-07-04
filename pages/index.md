@@ -15,6 +15,7 @@ permalink: /
   </div>
 </div>
 <div class="text-left wow animated slideInUp" data-wow-delay=".15s">
+    <h1 class="display-6">THIS SITE IS CURRENTLY A WIP!</h1>
     <h1 class="display-4"> Hi! I'm Shivi, </h1>
     <p class="lead">a MSc Game Studies and Engineering graduate and AR/VR researcher, currently looking to apply my skills and experience to the games industry in a design or development role.</p>
     <p>I have experience designing and developing single- and multi-player and 2D and 3D games, both individually and as part of a team, using Unity, Unreal Engine and other frameworks. </p>
