@@ -6,9 +6,9 @@
                   <li>Developed apps for <strong>Microsoft HoloLens 2</strong> and <strong>Meta Quest 3</strong> using <strong>Unity</strong></li>
                   <li>Organised and conducted subjective testing with 60+ participants</li>
                   <li>Collaborated with project partners and external institutions from across Europe</li>
-                  <li>Published <a href="/academic-work">5 papers</a> on my work</li>
                   <li>Organised and participated in internal and project-wide meetings</li>
-                  <li>Prepared progress reports and participated in dissemination activities such as presenting my work at <a href="https://langenachtderforschung.at/bundesland/2">LnDF 2024</a></li>
+                  <li>Prepared progress reports and participated in dissemination activities such as presenting my work at <a href="https://langenachtderforschung.at/bundesland/2">LNdF 2024</a></li>
+                  <li>Published <a href="/academic-work">5 papers</a> on my work</li>
                 </ul>
 
 
@@ -22,7 +22,7 @@
                   <li>Ported viewport prediction algorithms for 360° videos from <strong>MATLAB</strong> to <strong>Python</strong></li>
                   <li>Developed and deployed a <strong>Flask</strong> webapp with <strong>NGINX</strong> to run on edge servers to perform viewport prediction</li>
                   <li>Modified an <strong>Android</strong> DASH 360° video client to reduce motion-to-glass latency by up to 62%</li>
-                  <li>Prepared progress reports and participated in dissemination activities such as presenting my work at <a href="https://langenachtderforschung.at/bundesland/2">LnDF 2022</a></li>
+                  <li>Prepared progress reports and participated in dissemination activities such as presenting my work at <a href="https://langenachtderforschung.at/bundesland/2">LNdF 2022</a></li>
                 </ul>
 
 - title: Game Lab Tutor (part-time), <a href="https://kcgl.aau.at/">Klagenfurt Coding Game Lab</a>
@@ -35,7 +35,7 @@
                   <li>Made a basic 2D platformer in <strong>Unity</strong> and <strong>C#</strong></li>
                 </ul>
 
-- title: M.Sc. Game Studies and Engineering
+- title: Student, M.Sc. Game Studies and Engineering
   from: Oct 2018
   to: Apr 2022
   description:  <p class="lead">University of Klagenfurt, Austria</p>
@@ -53,7 +53,7 @@
                   </ul>
                 </ul>            
 
-- title: B.Tech. Computer Science and Engineering
+- title: Student, B.Tech. Computer Science and Engineering
   from: Aug 2014
   to: Aug 2018
   description:  <p class="lead">Indian Institute of Information Technology, Una, India</p>

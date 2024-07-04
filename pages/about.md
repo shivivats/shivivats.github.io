@@ -20,7 +20,7 @@ weight: 5
 -->
 
 <div class="row">
-
+<h2> Work Experience and Education </h2>
 </div>
 
 <div class="row">
