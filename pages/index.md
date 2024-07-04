@@ -20,7 +20,7 @@ permalink: /
     {% include summary.html %}
     <p>To learn more about my background, research experience, and game development projects, please visit the following links:</p>
     <ul>
-      <li>My <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="#">CV (PDF)</a> and <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/about-me">more about me</a></li>
+      <li>My <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="#">CV (PDF)</a> and <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/about">more about me</a></li>
       <li><a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/projects">Game Projects</a></li>
       <li><a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/academic-work">Academic Work</a></li>
       <li><a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/other-work">Non-Game Projects</a></li>

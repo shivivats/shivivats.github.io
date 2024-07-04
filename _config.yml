@@ -24,17 +24,18 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Shivi Vats
   image             : assets/images/Me/shivi_vats_square.jpg
-#  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : shivivats7@gmail.com
 # facebook          : your_username
   github            : shivivats
-  github2            : shivivats-aau
+  github2           : shivivats-aau
 # gitlab            : your_username
+  itch              : https://zarroc.itch.io
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : linkedin.com/in/shivivats/
-#  medium            : your_username
+  linkedin          : shivivats/
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id

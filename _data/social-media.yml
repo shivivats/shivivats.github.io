@@ -36,6 +36,11 @@ gitlab:
   icon  : fab fa-gitlab
   color : fca326
 
+itch:
+  url   : 
+  icon  : fab fa-itch-io
+  color : fa5e5e
+
 instagram:
   url   : https://www.instagram.com/
   icon  : fab fa-instagram
