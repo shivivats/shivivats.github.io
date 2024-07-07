@@ -29,3 +29,8 @@ Please [download my CV as a PDF](#) or continue reading this page for more infor
 <h2 class="pb-2 border-bottom"> Work Experience and Education </h2>
 {% include about/timeline.html %}
 </div>
+
+<div class="row">
+<h2 class="pb-2 border-bottom"> Publications </h2>
+{% include about/publications.html %}
+</div>
