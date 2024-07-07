@@ -69,7 +69,7 @@ Here are some screenshots:
   </button>
 </div>
 <div class="text-center">
-    SpellSlinger Screenshots
+    Kind Companion Screenshots
 </div>
 
 <br/>

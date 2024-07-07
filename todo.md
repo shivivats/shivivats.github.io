@@ -19,4 +19,4 @@ About Me
 - add new sections for work experience as well
 - fill all details in the about page
 
-Contact Me - Not doing this anymore
+Contact Me - Not doing this any more
