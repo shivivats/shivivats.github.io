@@ -9,7 +9,7 @@ weight: 5
 # **About Me**
 <div class="row">
     <div class="lead">Hi! I am <strong>{{ site.author.name }}</strong> :wave:,<br></div>
-    {% include summary.html %}
+    {% include about/summary.html %}
 </div>
 
 Please [download my CV as a PDF](#) or continue reading this page for more information.
@@ -24,39 +24,6 @@ Please [download my CV as a PDF](#) or continue reading this page for more infor
 -->
 
 {% include about/stats.html %}
-
-<!-- <div class="mb-4">
-    <h2> General Info </h2>
-    <div class="row row-cols-1 row-cols-lg-3 mt-4">
-        <div class="col">
-        <h3>Languages</h3>
-        <p>
-        <strong>Hindi:</strong> C2 (Native) <br/>
-        <strong>English:</strong> C2 (Fluent) <br/>
-        <strong>German:</strong> A2-B1 (Intermediate)
-        </p>
-        </div>
-        <div class="col">
-        <h3>Tech Stack</h3>
-        <p>
-        Unity, C# <br/>
-        Unreal Engine, C++, Blueprints <br/>
-        Android, JAVA <br/>
-        Python, NumPy, Flask <br/>
-        MRTK2, ARCore <br/>
-        </p>
-        </div>
-        <div class="col">
-        <h3>Socials</h3>
-        <p>
-        <i class="fab fa-brands fa-linkedin"></i> <a>Shivi Vats</a><br/>
-        <i class="fab fa-brands fa-github"></i> <a>shivivats</a><br/>
-        <i class="fab fa-brands fa-github"></i> <a>shivivats-aau</a><br/>
-        <i class="fab fa-brands fa-itch-io"></i> <a>zarroc</a>
-        </p>
-        </div>
-    </div>
-</div> -->
 
 <div class="row">
 <h2 class="pb-2 border-bottom"> Work Experience and Education </h2>
