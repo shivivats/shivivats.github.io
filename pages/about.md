@@ -12,7 +12,7 @@ weight: 5
     {% include summary.html %}
 </div>
 
-[Download my CV as a PDF](#).
+Please [download my CV as a PDF](#) or continue reading this page for more information.
 
 <p>You can reach me at <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="mailto:shivivats7@gmail.com">shivivats7@gmail.com</a>.</p>
 
@@ -23,7 +23,9 @@ weight: 5
 </div> 
 -->
 
-<div class="mb-4">
+{% include about/stats.html %}
+
+<!-- <div class="mb-4">
     <h2> General Info </h2>
     <div class="row row-cols-1 row-cols-lg-3 mt-4">
         <div class="col">
@@ -54,9 +56,9 @@ weight: 5
         </p>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="row">
-<h2> Work Experience and Education </h2>
+<h2 class="pb-2 border-bottom"> Work Experience and Education </h2>
 {% include about/timeline.html %}
 </div>
