@@ -1,6 +1,10 @@
 ---
 name: Characterization of QoE of PCs
 description: Characterization of the Quality of Experience and Immersion of Point Cloud Video Sequences through a Subjective Study. <em>IEEE Access 2023.</em>
+full-name: Characterization of the Quality of Experience and Immersion of Point Cloud Video Sequences through a Subjective Study
+conference: 2023 IEEE Access Volume 11
+month: October 2023
+date: 2023-10-01
 image: /assets/images/publications/characterisation.png
 tools: [AR, HoloLens, QoE, Unity, C#]
 ---

@@ -1,6 +1,10 @@
 ---
 name: Subjective Testing Platform
 description: A Platform for Subjective Quality Assessment in Mixed Reality Environments. <em>QoMEX 2023.</em>
+full-name: A Platform for Subjective Quality Assessment in Mixed Reality Environments
+conference: 2023 15th International Conference on Quality of Multimedia Experience (QoMEX)
+month: June 2023
+date: 2023-06-01
 image: /assets/images/publications/platform.jpg
 tools: [AR, HoloLens, QoE, Unity, C#]
 ---

@@ -1,0 +1,19 @@
+<div class="col mt-4">
+    <div class="timeline-body bg-themed">
+        {% assign sortedPosts = site.academic-work | sort: "date" | reverse %}
+        {% for item in sortedPosts %}
+        {%- if item.conference -%}
+        <div class="timeline-item">
+            <div class="content">
+                <h3><a href="{{ item.url | relative_url }}">{{ item.full-name }}</a></h3>
+                <h5>{{ item.conference }}</h5>
+                <h6 class="date">{{ item.month }}</h6>
+                <!-- <p>{{ item.description }}</p> -->
+                <!-- <p><a href="{{ item.internal-link }}">Read more</a></p> -->
+                <!-- <p><a href="{{ item.external-link }}">Go to paper</a></p> -->
+            </div>
+        </div>
+        {%- endif -%}
+        {% endfor %}
+    </div>
+</div>
