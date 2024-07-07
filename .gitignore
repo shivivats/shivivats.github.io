@@ -12,3 +12,5 @@ Gemfile.lock
 *.log
 
 _posts/templates
+
+_posts/todo
