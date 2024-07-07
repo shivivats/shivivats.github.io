@@ -11,6 +11,8 @@ tools: [AR, HoloLens, QoE, Unity, C#]
 <p class="h5"> 2023 IEEE Access Volume 11 </p>
 </div>
 
+<p><br /><em>You can read the whole paper <a href="https://ieeexplore.ieee.org/abstract/document/10288458/">here</a>.</em></p>
+
 ## Background
 
 This is a journal paper, part of our work with the [SPIRIT Project](https://www.spirit-project.eu/), expanding on [our first study](/academic-work/06-impact) with point clouds. For this work, we tested various Quality of Experience (QoE) models using the data obtained in the study. The results are compiled and the impact of various factors on the QoE of PCs is discussed. The data can be found on GitHub at [minhkstn/QoE-and-Immersion-of-Dynamic-Point-Cloud](https://github.com/minhkstn/QoE-and-Immersion-of-Dynamic-Point-Cloud).

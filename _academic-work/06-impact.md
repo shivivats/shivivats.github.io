@@ -11,6 +11,8 @@ tools: [AR, HoloLens, QoE, Unity, C#]
 <p class="h5"> 2023 15th International Conference on Quality of Multimedia Experience (QoMEX) </p>
 </div>
 
+<p><br /><em>You can read the whole paper <a href="https://ieeexplore.ieee.org/abstract/document/10178491/">here</a>.</em></p>
+
 ## Background
 
 This paper marked my first publication(s) with the [SPIRIT Project](https://www.spirit-project.eu/). The paper contains information about a subjective QoE study used to determine the impact of distance and quality on the perception of point clouds in Augmented (Mixed) Reality. The study was conducted using the Microsoft HoloLens 2 and involved asking 30+ participants to do the test and then performing statistical analysis on the compiled results. The dataset was also used to train a Quality of Experience model for Point Clouds in our extended abstract paper [here](/academic-work/05-no-reference).

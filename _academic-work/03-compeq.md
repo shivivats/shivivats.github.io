@@ -11,6 +11,8 @@ tools: []
 <p class="h5"> 15th ACM Multimedia Systems (MMSys) Conference </p>
 </div>
 
+<p><br /><em>You can read the whole paper <a href="https://dl.acm.org/doi/abs/10.1145/3625468.3652182">here</a>.</em></p>
+
 ## Background
 
 This work is a continuation of [our initial work](/academic-work/06-impact) on subjective tests for Quality of Experience (QoE) for point clouds (PCs) as part of the [SPIRIT Project](https://www.spirit-project.eu/). We performed testing again, this time adding a task for the participants to simply move around and look at the point clouds. During this task, we gathered the participants eye tracking data, and generated heatmaps from it to get an idea of where the users prefer to look.

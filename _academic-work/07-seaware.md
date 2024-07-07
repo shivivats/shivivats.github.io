@@ -11,6 +11,8 @@ tools: [5G, Python, Webapp, Android, VR]
 <p class="h5"> 2022 IEEE International Symposium on Multimedia (ISM) </p>
 </div>
 
+<p><br /><em>You can read the whole paper <a href="https://ieeexplore.ieee.org/abstract/document/10019680/">here</a>.</em></p>
+
 ## Background
 
 This paper was the culmination of 1.5 years of work on the [5G Playground Carinthia - Use Case "Virtual Realities"](https://5gplayground.at/en/use-cases/). I started work as a Project Assistant at my University halfway through the project's duration. In my time there, I worked on a **Python webapp** using **Flask**, **Celery**, **Redis**, and **Passenger** to predict viewport for 360° videos in advance. The viewport algorithm utilised was SEAWARE, and my work involved porting the algorithm from **MATLAB** to Python using **NumPy** and **SciPy** and running the code in the webapp in real-time as the user watched the video. **NGINX** was utilised as the server to run the webapp on and stream the video through.

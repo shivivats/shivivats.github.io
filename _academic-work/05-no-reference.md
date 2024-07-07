@@ -11,6 +11,8 @@ tools: [QoE, Point Clouds]
 <p class="h5"> 3rd Mile-High Video (MHV) Conference 2024</p>
 </div>
 
+<p><br /><em>You can read the whole paper <a href="https://dl.acm.org/doi/abs/10.1145/3638036.3640248">here</a>.</em></p>
+
 ## Background
 
 This paper is a short work containing a model for determining the Quality of Experience (QoE) of Point Clouds (PCs) in Augmented Reality. The model is a fine-tuned version of the ITU-T P.1203[^1] model trained using the dataset from [our previous work](/academic-work/06-impact). It is part of our work with the [SPIRIT Project](https://www.spirit-project.eu/).

@@ -11,6 +11,8 @@ tools: [AR, HoloLens, QoE, Unity, C#]
 <p class="h5"> 2023 15th International Conference on Quality of Multimedia Experience (QoMEX) </p>
 </div>
 
+<p><br /><em>You can read the whole paper <a href="https://ieeexplore.ieee.org/abstract/document/10178443/">here</a>.</em></p>
+
 ## Background
 
 This work marked my first publication(s) with the [SPIRIT Project](https://www.spirit-project.eu/). The testing platform is developed for the Microsoft **HoloLens 2**  using **Unity**, **C#** and Microsoft's **Mixed Reality Toolkit (MRTK) 2**. I developed the whole platform myself.
