@@ -15,7 +15,7 @@ permalink: /
   </div>
 </div>
 <div class="text-left wow animated slideInUp" data-wow-delay=".15s">
-    <h1 class="display-6">THIS SITE IS CURRENTLY A WIP!</h1>
+    <!-- <h1 class="display-6">THIS SITE IS CURRENTLY A WIP!</h1> -->
     <h1 class="display-4"> Hi! I'm Shivi, </h1>
     {% include about/summary.html %}
     <p>To learn more about my background, research experience, and game development projects, please visit the following links:</p>
