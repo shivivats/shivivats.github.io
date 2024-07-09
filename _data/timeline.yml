@@ -16,7 +16,7 @@
   to: Oct 2022
   description:  <p class="lead">Department of Information Technology, University of Klagenfurt, Austria</p>
                 <ul>
-                  <li>Worked alongside studying in the "Virtual Realities" use case</li>
+                  <li>Worked on the "Virtual Realities" use case alongside doing my Masters</li>
                   <li>Ported viewport prediction algorithms for 360° videos from <strong>MATLAB</strong> to <strong>Python</strong></li>
                   <li>Developed and deployed a <strong>Flask</strong> webapp with <strong>NGINX</strong> to run on edge servers to perform viewport prediction</li>
                   <li>Modified an <strong>Android</strong> DASH 360° video client to reduce motion-to-glass latency by up to 62%</li>
@@ -54,7 +54,7 @@
 
 - title: Student, B.Tech. Computer Science and Engineering
   from: Aug 2014
-  to: Aug 2018
+  to: May 2018
   description:  <p class="lead"><a href="https://iiitu.ac.in/">Indian Institute of Information Technology, Una, India</a></p>
                 <ul>
                   <li><strong>Final Grade&#58;</strong> 7.5 out of 10</li>
