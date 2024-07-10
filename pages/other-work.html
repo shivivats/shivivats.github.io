@@ -5,4 +5,29 @@ permalink: /other-work/
 weight: 3
 ---
 
+
+<div class="mt-4">
+    <h1>Other Work</h1>
+    <p class="lead">Here you'll find random hobby projects, internship projects, and anything else that doesn't fully fit in my game development or academic portfolio. You can click on the individual cards to learn more about the project and my thoughts and reflections on the development process.</p>
+</div>
+
+<!-- Collect tools list from all projects -->
+{%- assign tools = blank -%}
+{%- for project in site.other-work -%}
+{%- assign project_tools = project.tools | join:'|' | append:'|' -%}
+{%- if project_tools != '|' -%}
+{%- assign tools = tools | append:project_tools -%}
+{%- endif -%}
+{%- endfor -%}
+{%- assign tools = tools | split:'|' | uniq | sort -%}
+
+
+<!-- List tools & related projects -->
+<h3>Tags</h3>
+<button type="button" class="btn btn-primary" aria-expanded="false" id="buttonAll" onClick="showAllCards()">All</button>
+{% for tool in tools %}
+<button type="button" class="btn btn-primary" aria-expanded="false" id="{{ 'button' | append: tool | slugify }}" onClick="collapseCardsForThisButton(this)">{{ tool }}</button>
+{% endfor %}
+
+
 {% include other-work/index.html %}

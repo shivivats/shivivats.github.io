@@ -2,7 +2,7 @@
 name: Vis À Vis
 description: A 3D first-person atmospheric horror game, where the player has to navigate through an insane asylum while trying to make sense of the weird phenomena happening around them.
 image: /assets/images/games/visavis/vis-a-vis-featured.jpg
-tools: [C++, Unreal Engine, 3D]
+tools: [CPP, Unreal Engine, 3D]
 ---
 
 # Vis À Vis
