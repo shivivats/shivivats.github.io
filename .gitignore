@@ -10,7 +10,3 @@ Gemfile.lock
 
 # Log Files
 *.log
-
-_posts/templates
-
-_posts/todo

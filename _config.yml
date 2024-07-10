@@ -123,3 +123,5 @@ exclude:
   - /vendor/cache/
   - /vendor/gems/
   - /vendor/ruby/
+  - /_posts/templates/
+  - /_posts/todo/
