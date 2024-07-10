@@ -12,7 +12,7 @@ weight: 5
     {% include about/summary.html %}
 </div>
 
-Please [download my CV as a PDF](#) or continue reading this page for more information.
+Please [download my CV as a PDF](/assets/documents/Shivi_CV.pdf) or continue reading this page for more information.
 
 <p>You can reach me at <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="mailto:shivivats7@gmail.com">shivivats7@gmail.com</a>.</p>
 
