@@ -1,6 +1,6 @@
 ---
 name: Deception Royale
-tools: [C#, Unity, 2D, Multiplayer]
+tools: [C#, Unity, 2D, Online Multiplayer]
 description: a 2D top-down multiplayer battle royale game, where each player tries to remain the last one standing by planting hidden bombs to take out others.
 image: /assets/images/games/deceptionroyale/deception-royale-featured.png
 ---
