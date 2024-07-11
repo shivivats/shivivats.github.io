@@ -1,4 +1,4 @@
----
+<!-- ---
 name: 
 description: 
 image: /assets/images/
@@ -26,4 +26,4 @@ tools: []
 
 <p class="text-center">
 {% include elements/button.html link="/academic-work" text="Back to Academic Work" %}
-</p>
+</p> -->
