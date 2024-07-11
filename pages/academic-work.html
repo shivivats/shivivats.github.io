@@ -24,9 +24,9 @@ weight: 2
 
 <!-- List tools & related projects -->
 <h3>Tags</h3>
-<button type="button" class="btn btn-primary" aria-expanded="false" id="buttonAll" onClick="showAllCards()">All</button>
+<button type="button" class="btn btn-primary my-1" aria-expanded="false" id="buttonAll" onClick="showAllCards()">All</button>
 {% for tool in tools %}
-<button type="button" class="btn btn-primary" aria-expanded="false" id="{{ 'button' | append: tool | slugify }}" onClick="collapseCardsForThisButton(this)">{{ tool }}</button>
+<button type="button" class="btn btn-primary my-1" aria-expanded="false" id="{{ 'button' | append: tool | slugify }}" onClick="collapseCardsForThisButton(this)">{{ tool }}</button>
 {% endfor %}
 
 
