@@ -12,3 +12,136 @@ $text-black: #343a40;
 $text-white: rgba(white, .9);
 
 $rounded-borders: 15px;
+
+// Colours for my blog posts based on category
+$web-dev: #17a2b8;
+$game-dev: #28a745;
+$dnd: #f9ca30;
+$academia: #3a91ef;
+$personal: #dc3545;
+$technology: #4f5356;
+
+// can also make subtle colours like so
+$web-dev-subtle: #a2d6de;
+$game-dev-subtle: #7ac98c;
+$dnd-subtle: #e0ce93;
+$academia-subtle: #86bcf7;
+$personal-subtle: #e47b85;
+$technology-subtle: #acaeb0;
+
+// https://getbootstrap.com/docs/5.3/customize/color/#colors
+// make these classes based on the default bootstrap classes
+
+// web-dev
+.bg-web-dev {
+    --bs-bg-opacity: 1;
+    background-color: rgba($web-dev, var(--bs-bg-opacity)) !important;
+}
+
+.border-web-dev {
+    --bs-border-opacity: 1;
+    border-color: rgba($web-dev, var(--bs-border-opacity)) !important;
+}
+
+.bg-web-dev-subtle {
+    background-color: $web-dev-subtle !important;
+}
+
+.border-web-dev-subtle {
+    border-color: $web-dev-subtle !important;
+}
+
+// game-dev
+.bg-game-dev {
+    --bs-bg-opacity: 1;
+    background-color: rgba($game-dev, var(--bs-bg-opacity)) !important;
+}
+
+.border-game-dev {
+    --bs-border-opacity: 1;
+    border-color: rgba($game-dev, var(--bs-border-opacity)) !important;
+}
+
+.bg-game-dev-subtle {
+    background-color: $game-dev-subtle !important;
+}
+
+.border-web-dev-subtle {
+    border-color: $game-dev-subtle !important;
+}
+
+// dnd
+.bg-dnd {
+    --bs-bg-opacity: 1;
+    background-color: rgba($dnd, var(--bs-bg-opacity)) !important;
+}
+
+.border-dnd {
+    --bs-border-opacity: 1;
+    border-color: rgba($dnd, var(--bs-border-opacity)) !important;
+}
+
+.bg-dnd-subtle {
+    background-color: $dnd-subtle !important;
+}
+
+.border-dnd-subtle {
+    border-color: $dnd-subtle !important;
+}
+
+// academia
+.bg-academia {
+    --bs-bg-opacity: 1;
+    background-color: rgba($academia, var(--bs-bg-opacity)) !important;
+}
+
+.border-academia {
+    --bs-border-opacity: 1;
+    border-color: rgba($academia, var(--bs-border-opacity)) !important;
+}
+
+.bg-academia-subtle {
+    background-color: $academia-subtle !important;
+}
+
+.border-academia-subtle {
+    border-color: $academia-subtle !important;
+}
+
+// personal
+.bg-personal {
+    --bs-bg-opacity: 1;
+    background-color: rgba($personal, var(--bs-bg-opacity)) !important;
+}
+
+.border-personal {
+    --bs-border-opacity: 1;
+    border-color: rgba($personal, var(--bs-border-opacity)) !important;
+}
+
+.bg-personal-subtle {
+    background-color: $personal-subtle !important;
+}
+
+.border-personal-subtle {
+    border-color: $personal-subtle !important;
+}
+
+// technology
+.bg-technology {
+    --bs-bg-opacity: 1;
+    background-color: rgba($technology, var(--bs-bg-opacity)) !important;
+}
+
+.border-technology {
+    --bs-border-opacity: 1;
+    border-color: rgba($technology, var(--bs-border-opacity)) !important;
+}
+
+.bg-technology-subtle {
+    background-color: $technology-subtle !important;
+}
+
+.border-technology-subtle {
+    border-color: $technology-subtle !important;
+}

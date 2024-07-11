@@ -1,0 +1,32 @@
+<!-- Collect categories from all posts -->
+{%- assign categories = blank -%}
+{%- for post in site.posts -%}
+{%- if post.category != em -%}
+{%- assign categories = categories | append:post.category | append:'|' -%}
+{%- endif -%}
+{%- endfor -%}
+{%- assign categories = categories | split:'|' | uniq | sort -%}
+
+<!-- List categories & related posts -->
+{% for cat in categories %}
+<div class="py-3">
+    <h4 id="{{ cat | slugify }}">{{ cat }}</h4>
+    <ol>
+        {% for post in site.posts %}
+        {%- if post.category == cat -%}
+        {%- if post.external_url -%}
+        {%- assign url = post.external_url -%}
+        {%- else -%}
+        {%- assign url = post.url | relative_url -%}
+        {%- endif -%}
+        <a href="{{ url }}">
+            <li>{{ post.title }}</li>
+        </a>
+        <small class="text-muted"> - {{ post.date | date_to_long_string }}</small>
+        <br />
+        {%- endif -%}
+        {% endfor %}
+    </ol>
+</div>
+<hr class="bg-light">
+{% endfor %}

@@ -1,34 +1,41 @@
 {%- comment -%} Default Styles {%- endcomment -%}
-{%- assign card_style  = '' -%}
-{%- assign text_style  = 'text-themed' -%}
-{%- assign badge_style = 'badge-dark' -%}
+{%- assign card_style = '' -%}
+{%- assign text_style = 'text-themed' -%}
+{%- assign badge_style = 'text-bg-dark' -%}
 
 {%- comment -%} Update Styles {%- endcomment -%}
+{% assign cat = post.category | slugify:"ascii" | downcase %}
 {%- if post.style == 'fill' -%}
-  {%- assign card_style = post.color | prepend: 'bg-' -%}
-  {%- if post.color != 'light' -%}
-    {%- assign text_style  = 'text-white' -%}
-    {%- assign badge_style = 'badge-light text-' -%}
-    {%- assign badge_style = badge_style | append: post.color -%}
-  {%- endif -%}
+{%- assign card_style = cat | prepend: 'bg-' -%}
 {%- else -%}
-  {%- assign card_style = post.color | prepend: 'border border-' -%}
-  {%- if post.color -%}
-    {%- assign badge_style =  post.color | prepend: 'badge-' -%}
-  {%- endif -%}
+{%- assign card_style = cat | prepend: 'border border-' -%}
+{%- endif -%}
+
+{%- comment -%} Update Text and Tag/Category Badge Styles {%- endcomment -%}
+{%- if post.text == 'light' -%}
+{%- assign text_style = 'text-white' -%}
+{%- assign badge_style = 'text-bg-light' -%}
+{%- else -%}
+{%- assign text_style = 'text-black' -%}
+{%- assign badge_style = 'text-bg-dark' -%}
 {%- endif -%}
 
 {%- comment -%} Determine Post URL {%- endcomment -%}
 {%- if post.external_url -%}
-  {%- assign post_url = post.external_url -%}
+{%- assign post_url = post.external_url -%}
 {%- else -%}
-  {%- assign post_url = post.url | relative_url -%}
+{%- assign post_url = post.url | relative_url -%}
 {%- endif -%}
-    
+
 <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ post_url }}" class="post card {{ card_style }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>
     <div class="card-body {{ text_style }}">
       <h3 class="card-title">{{ post.title }}</h3>
+      <p class="card-text">
+        {% if post.category %}
+        <span class="badge rounded-pill {{ badge_style }}">{{ post.category }}</span>
+        {% endif %}
+      </p>
       <p class="card-text">
         {% for tag in post.tags %}
         <span class="badge {{ badge_style }}">{{ tag }}</span>
@@ -38,7 +45,7 @@
         {%- if post.description -%}
         {{ post.description }}
         {%- else -%}
-        {{ post.content | truncatewords: 25, "<small><i>  read more...</i></small>" }}
+        {{ post.content | truncatewords: 25, "<small><i> read more...</i></small>" }}
         {%- endif -%}
       </p>
     </div>
