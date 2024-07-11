@@ -114,9 +114,7 @@ That's it! With these steps, your project page will now feature a dynamic tag fi
 
 If you'd like to, you can check out more of my [web dev writing](/blog/categories/#web-dev), or just the rest of [my blog](/blog/). 
 
-{% if site.looking_for_job %}
-I'm currently looking for a job as a game developer or designer based in Austria. Learn more on my [about page](/about/)!
-{% endif %}
+{% include looking-for-job.html %}
 
 Thanks for reading!
 
