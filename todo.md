@@ -20,3 +20,6 @@ Blog
 - fill all details in the about page
 
 Contact Me - Not doing this any more
+
+Dark mode fixes-
+footer bottom
