@@ -7,6 +7,8 @@ repository          : shivivas/shivivats.github.io     # Change to <your-usernam
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+looking_for_job: true # set it to true or false to show the relevant text at the bottom of blog posts
+
 
 ### Plugins ###
 plugins:
