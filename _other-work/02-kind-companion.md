@@ -81,7 +81,7 @@ Here are some screenshots:
 
 A couple of courses during my Master's degree[^2] focused on non-entertainment games and eventually motivated me to explore video games for mental health as a topic. At the time of the development of this app, the COVID-19 pandemic was in full swing as well, and everyone's mental health, mine included, seemed to be going down the gutter. After experimenting with a few mental health apps[^3] [^4] myself, I was motivated to develop such an app of my own.
 
-Additionally, a course on the psychological impact of video games introduced me to many games associated with mental health. I was introduced to the game ``Kind Words''[^5]. I liked the idea of writing and sending thoughts away. It made it into the app as a subfeature of the notes vault.
+Additionally, a course on the psychological impact of video games introduced me to many games associated with mental health. I was introduced to the game "Kind Words"[^5]. I liked the idea of writing and sending thoughts away. It made it into the app as a subfeature of the notes vault.
 
 Eventually, I decided on the professor for this course, Wolfgang Hoi[^6], as my primary supervisor and guide for the internship. It was a great decision as his knowledge of psychology and video games made him a great mentor and helped me with the specifics of many design features when I felt stuck.
 

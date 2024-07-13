@@ -73,7 +73,7 @@ Here's where we use Bootstrap and Javascript to filter projects based on clicked
 
 1. **JavaScript Functions**: Write JavaScript functions to utilize Bootstrap's collapse functionality. We'll add or remove the show class from elements instead of using the collapse function to avoid animations.
 
-2. **Project Card Classes**: Add classes like `collapse-tag`` to project cards based on their tags. This allows our JavaScript functions to target and show/hide the correct cards.
+2. **Project Card Classes**: Add classes like `collapse-tag` to project cards based on their tags. This allows our JavaScript functions to target and show/hide the correct cards.
 
 
 ```javascript
