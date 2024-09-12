@@ -33,4 +33,19 @@ permalink: /
     <p>To see my academic work, including published papers and teaching experience, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover"  href="/academic-work">click here</a>.</p>
     <p>To read my blog with dev logs, reflections, thoughts about my D&D campaign, and more, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover"  href="/blog">click here</a>.</p> -->
     <p>You can reach me at <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="mailto:shivivats7@gmail.com">shivivats7@gmail.com</a>.</p>
+    <div>
+      <h3>News</h3>
+      <table>
+        <tr>
+          <td style="vertical-align: top;"><b>26.08.2024</b></td>
+          <td></td>
+          <td style="vertical-align:top;">I presented my work at the <a href="https://www.aau.at/blog/university-meets-industry/">University meets Industry: Talents for Carinthia</a> event.</td>
+        </tr>
+          <tr>
+          <td style="vertical-align: top;"><b>12.09.2024</b></td>
+          <td></td>
+          <td style="vertical-align: top;">I'll be teaching a course titled "Self-Studied Game Studies and Engineering" at the University of Klagenfurt from Oct 2024 to Jan 2025.</td>
+        </tr>
+      </table>
+    </div>
 </div>
