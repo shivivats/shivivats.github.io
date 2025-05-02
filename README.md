@@ -1,18 +1,26 @@
-Games
-- action roguelike
-- breakup bonanza
+# shivivats.github.io
 
-Academic Work
+Based on the theme [portfolYOU](https://github.com/yousinix/portfolYOU).
+
+## To-Do:
+
+### Games
+- action roguelike (unreal engine multiplayer roguelike based on tom looman's course)
+- breakup bonanza (renpy game highlighting toxic masculinity)
+- godot watermelon game (suika game cloned to learn godot)
+- kitchen action (clone of overcooked based on code monkey tutorials)
+
+### Academic Work
 - game lab
 - unity lecture
 
-Other Work
+### Other Work
 - video podcast with Mathias
 - stealth game
 - coop game
 
 
-Blog
+### Blog
 - my dnd campaign (the world of XYZ)
 - my presentations at various events (and add pics if you can!). LNDF 2022, LNDF 2024, IEEE ISM 2022, QoMEX 2023 (x2), MHV 2024, MMSys 2024, university meets industry event, event with the austrian officials. 
 - 5 things about mrtk 2
@@ -36,10 +44,9 @@ Blog
 - What to know when developing for the HoloLens 2?
 - Things to keep in mind when using point clouds in Unity
 - My experience developing using point clouds for the HoloLens 2
-- 
 
-About
+### About
 - add more projects, group by language and framework
 
-Contact Me
+### ~~Contact Me~~
  - Not doing this any more
