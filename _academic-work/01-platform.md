@@ -32,7 +32,7 @@ The users can import their own point clouds of choosing, in any qualities they l
 *There have been more additions to the platform since, but they are not yet public.*
 
 The platform was used to conduct a subjective study, which you can read more about [in this paper](/academic-work/06-impact).    
-You can find the platform on GitHub [here](https://github.com/shivivats-aau/MR-Subjective-Testing-Platform).
+You can find the platform on GitHub [here](https://github.com/shivivats/MR-Subjective-Testing-Platform).
 
 <div>
 <img src="/assets/images/publications/platform.jpg" class="img-fluid" alt="The configuration panel of the testing platform depicting two point clouds in different representations"/>
