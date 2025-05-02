@@ -4,8 +4,7 @@
     <h5><b>{{ site.title }}</b></h5>
   </a>
 
-  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-    aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
   </button>
 
@@ -54,8 +53,7 @@
       {%- assign url = html_page.url | relative_url -%}
       {%- endif -%}
 
-      <a class="nav-item nav-link {{ active_status }}" href="{{ url }}" {%- if html_page.external_url and
-        site.open_new_tab -%} target="_blank" {%- endif -%}>{{ html_page.title }}</a>
+      <a class="nav-item nav-link {{ active_status }}" href="{{ url }}" {%- if html_page.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ html_page.title }}</a>
 
       {% endfor %}
 
