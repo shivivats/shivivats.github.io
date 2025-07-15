@@ -1,0 +1,34 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+weight: 5
+---
+
+<h2>About Me</h2>
+<div class="row">
+    <div class="lead">Hi! I am <strong>{{ site.author.name }}</strong> :wave:,<br></div>
+    <div style="display:flex; align-items: center;">
+        {% include about/summary_lead.html %}
+        <!-- <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image" style="max-height:200px; width:200px;border-radius: 50%;"> -->
+    </div>
+    {% include about/summary.html %}
+</div>
+
+<p>
+    Please <a href="/assets/documents/VATS_Shivi_CV.pdf">download my CV as a PDF</a> or continue reading this page for more information.
+</p>
+
+<p>You can reach me at <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="mailto:shivivats7@gmail.com">shivivats7@gmail.com</a>.</p>
+
+{% include about/stats.html %}
+
+<div class="row">
+    <h2 class="pb-2 border-bottom"> Work Experience and Education </h2>
+    {% include about/timeline.html %}
+</div>
+
+<div class="row">
+    <h2 class="pb-2 border-bottom"> Publications </h2>
+    {% include about/publications.html %}
+</div>
