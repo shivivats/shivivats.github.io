@@ -1,3 +1,6 @@
+$light-featured: #f8d800;
+
+
 @mixin themed($property, $light-value, $dark-value) {
   [data-bs-theme="light"] & {
     #{$property}: $light-value;
@@ -30,4 +33,14 @@
 
 .bg-themed {
   @include themed(background-color, $light, $dark);
+}
+
+// featured cards
+.card-featured {
+  background-color: $light-featured;
+}
+
+.card-featured-star {
+  color: purple;
+  font-size: x-large;
 }

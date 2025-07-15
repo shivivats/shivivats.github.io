@@ -3,6 +3,7 @@ name: Phantom Chess
 description: An auto-chess game in which the player tries to reach the highest score they can against the AI.
 image: /assets/images/games/phantomchess/phantom-chess-featured.png
 tools: [Unity, 2.5D, C#]
+featured: true
 ---
 
 # Phantom Chess

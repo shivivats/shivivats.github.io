@@ -2,6 +2,7 @@ $dark-100: $dark;
 $dark-300: #2c3032;
 $dark-600: #242526;
 $dark-900: #17191a;
+$dark-featured: #3d2f75;
 
 [data-bs-theme="dark"] {
   body {
@@ -42,6 +43,16 @@ $dark-900: #17191a;
   // Cards
   .card {
     background-color: $dark-600;
+  }
+
+  // featured cards
+  .card-featured {
+    background-color: $dark-featured;
+  }
+
+  .card-featured-star {
+    color: yellow;
+    font-size: x-large;
   }
 
   .card.border {

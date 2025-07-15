@@ -1,5 +1,5 @@
 <div class="{% for tool in project.tools %} {{'collapse' | append: tool | slugify | append: ' '}} {% endfor %} wow animated fadeIn col-12 col-md-6 col-lg-4 collapse show" data-wow-delay=".15s">
-  <a href="{{ project_url }}" class="project card text-themed" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
+  <a href="{{ project_url }}" class="project card {% if project_featured %} card-featured {% endif %} text-themed" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
     {%- if project_img -%}
     <img id="{{ project_id }}-img" class="card-img-top" src="{{ project_img }}" alt="{{ project_name }}" />
     {%- endif -%}
@@ -7,6 +7,11 @@
       <h5 id="{{ project_id }}-name" class="card-title">
         {%- if project_type == "remote" -%}
         <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
+        {%- endif -%}
+        {%- if project_featured -%}
+        <span class="card-featured-star">
+          &#x2605;
+        </span>
         {%- endif -%}
         {{ project_name }}
       </h5>
