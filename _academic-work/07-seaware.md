@@ -3,8 +3,8 @@ name: SEAWARE
 description: Semantic-aware View Prediction for 360° Videos at the 5G Edge. <em>IEEE ISM 2022.</em>
 full-name: Semantic-aware View Prediction for 360° Videos at the 5G Edge
 conference: 2022 IEEE International Symposium on Multimedia (ISM)
-month: December 2022
-date: 2022-12-01
+# month: December 2022
+# date: 2022-12-01
 image: /assets/images/publications/seaware.png
 tools: [5G, Python, Webapp, Android, VR]
 ---

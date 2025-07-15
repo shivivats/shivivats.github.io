@@ -3,8 +3,8 @@ name: Point Clouds QoE
 description: Impact of Quality and Distance on the Perception of Point Clouds in Mixed Reality. <em>QoMEX 2023.</em>
 full-name: Impact of Quality and Distance on the Perception of Point Clouds in Mixed Reality
 conference: 2023 15th International Conference on Quality of Multimedia Experience (QoMEX)
-month: June 2023
-date: 2023-06-02
+# month: June 2023
+# date: 2023-06-02
 image: /assets/images/publications/impact-of.png
 tools: [AR, HoloLens, QoE, Unity, C#]
 ---

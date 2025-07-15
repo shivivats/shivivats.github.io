@@ -3,8 +3,8 @@ name: No-Reference Quality of Experience Model for Dynamic Point Clouds in Augme
 description: No-Reference Quality of Experience Model for Dynamic Point Clouds in Augmented Reality. <em>MHV 2024.</em>
 full-name: No-Reference Quality of Experience Model for Dynamic Point Clouds in Augmented Reality
 conference: 3rd Mile-High Video (MHV) Conference 2024
-month: February 2024
-date: 2024-02-01
+# month: February 2024
+# date: 2024-02-01
 image: /assets/images/publications/no-reference.png
 tools: [QoE, Point Clouds]
 ---

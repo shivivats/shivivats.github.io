@@ -3,8 +3,8 @@ name: ComPEQ–MR
 description: ComPEQ–MR&#58; Compressed Point Cloud Dataset with Eye Tracking and Quality Assessment in Mixed Reality. <em>ACM MMSys 2024.</em>
 full-name: ComPEQ–MR&#58; Compressed Point Cloud Dataset with Eye Tracking and Quality Assessment in Mixed Reality
 conference: 15th ACM Multimedia Systems (MMSys) Conference
-month: April 2024
-date: 2024-04-01
+# month: April 2024
+# date: 2024-04-01
 image: /assets/images/publications/compeq.png
 tools: [AR, HoloLens, Eye Tracking, QoE, Unity, C#]
 ---
