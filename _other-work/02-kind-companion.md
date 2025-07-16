@@ -85,7 +85,7 @@ Additionally, a course on the psychological impact of video games introduced me 
 
 Eventually, I decided on the professor for this course, Wolfgang Hoi[^6], as my primary supervisor and guide for the internship. It was a great decision as his knowledge of psychology and video games made him a great mentor and helped me with the specifics of many design features when I felt stuck.
 
-[^2]: [Master Game Studies and Engineering at University of Klagenfurt, Austria](https://www.aau.at/studien/master-game-studies-and-engineering/)
+[^2]: [Masters Game Studies and Engineering at University of Klagenfurt, Austria](https://www.aau.at/studien/master-game-studies-and-engineering/)
 [^3]: [*MoodTools* on Google Play Store](https://play.google.com/store/apps/details?id=com.moodtools.moodtools&hl=en&gl=US)
 [^4]: [*What's Up?* on Google Play Store](https://play.google.com/store/apps/details?id=com.jacksontempra.apps.whatsup&hl=en_GB)
 [^5]: [*Kind Words* on Steam](https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/.)
