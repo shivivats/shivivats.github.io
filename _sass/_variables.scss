@@ -1,15 +1,46 @@
-$primary: #007bff;
-$timeline: #6200ff;
-$secondary: #6c757d;
-$success: #28a745;
-$info: #17a2b8;
-$warning: #ffc107;
-$danger: #dc3545;
-$light: #f8f9fa;
-$dark: #343a40;
+// $dark-illustration-primary: #007bff;
+// $timeline: #6200ff;
+// $dark-illustration-secondary: #6c757d;
+// $success: #28a745;
+// $info: #17a2b8;
+// $warning: #ffc107;
+// $danger: #dc3545;
+// $light: #f8f9fa;
+// $dark: #121629;
 
-$text-black: #343a40;
-$text-white: rgba(white, .9);
+// $text-black: #343a40;
+// $text-white: rgba(white, .9);
+
+$light-background: #242629;
+$light-text: #94a1b2;
+
+
+
+
+
+$dark-background: #242629;
+$dark-card-background: #16161a;
+$dark-button-background: #7f5af0;
+
+$dark-heading: #fffffe;
+$dark-text: #94a1b2;
+
+$dark-button-text: $dark-heading;
+$dark-link: $dark-button-background;
+
+$dark-border: #010101;
+
+$dark-input-background: $dark-card-background;
+$dark-input-text: $dark-button-text;
+
+$dark-link-text: #7f5af0;
+
+
+
+$dark-illustration-primary: #fffffe;
+
+$dark-illustration-secondary: #72757e;
+$dark-illustration-tertiary: #2cb67d;
 
 $rounded-borders: 15px;
 
