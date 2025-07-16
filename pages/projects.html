@@ -10,6 +10,11 @@ weight: 1
     <p class="lead">These are some of the games I've developed, with the more prominent ones highlighted and presented at the top. You can navigate the projects by scrolling or by filtering via the tags. The projects cards can be clicked to learn more about the project and my thoughts and reflections on the development process.</p>
 </div>
 
+<!-- Collect featured projects -->
+{% include projects/featured.html %}
+
+
+
 <!-- Collect tools list from all projects -->
 {%- assign tools = blank -%}
 {%- for project in site.projects -%}
