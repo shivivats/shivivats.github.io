@@ -1,10 +1,9 @@
 ---
-title: How to filter by tags on the same page in Jekyll using Bootstrap 5
+title: How to filter posts by tags on the same page in Jekyll using Bootstrap 5
 tags: [Jekyll, Liquid, Bootstrap]
-style: fill
 category: Web Dev
-text: light
 description: Using Bootstrap 5 collapse classes and JavaScript functionality to dynamically change the page content based on the tag button clicked.
+author: Shivi Vats
 ---
 
 ## The Problem

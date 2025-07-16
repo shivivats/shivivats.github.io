@@ -1,6 +1,3 @@
-$light-featured: #f8d800;
-
-
 @mixin themed($property, $light-value, $dark-value) {
   [data-bs-theme="light"] & {
     #{$property}: $light-value;
@@ -19,28 +16,163 @@ $light-featured: #f8d800;
 
   .navbar-brand,
   .navbar-nav .nav-link.active {
-    @include themed(color, $text-black, $text-white);
+    color: $text;
   }
 
   .navbar-nav .nav-link {
-    @include themed(color, rgba($text-black, 0.5), rgba($text-white, 0.5));
+    color: rgba($text, 0.6);
   }
 }
 
 .text-themed {
-  @include themed(color, $text-black, $text-white);
+  color: $text;
 }
 
 .bg-themed {
-  @include themed(background-color, $light, $dark);
-}
-
-// featured cards
-.card-featured {
-  background-color: $light-featured;
+  background-color: $background;
 }
 
 .card-featured-star {
   color: gold;
   font-size: x-large;
+}
+
+body {
+  background-color: $background;
+  color: $text;
+}
+
+// Code blocks & Syntax highlighting
+
+@import "native.scss";
+
+pre,
+code.highlighter-rouge {
+  @extend .highlight;
+  border: none;
+}
+
+.gist {
+  filter: invert(90%) hue-rotate(180deg);
+}
+
+// Inputs
+input {
+  background-color: $input-background;
+  border-color: $border;
+  color: $input-text;
+
+  &::placeholder {
+    color: rgba($text, 0.64);
+  }
+
+  &:focus {
+    background-color: $input-background;
+    color: $text;
+  }
+}
+
+// Cards
+.card {
+  background-color: $card-background;
+}
+
+.card-title {
+  color: $heading;
+}
+
+.card-featured-star {
+  color: gold;
+  font-size: x-large;
+}
+
+.card.border {
+  .card-footer {
+    background-color: $card-background;
+  }
+}
+
+// Tables
+table:not(.highlight) {
+  td {
+    border-color: $border;
+  }
+
+  tr:nth-child(even) {
+    background-color: $background;
+  }
+}
+
+// Lists
+.list-group-item-action {
+  background-color: $card-background;
+  color: $button-text;
+
+  &:hover,
+  &:focus {
+    background-color: darken($color: $card-background, $amount: 3);
+  }
+}
+
+// Post
+.post footer {
+  text-decoration: none;
+}
+
+// Timeline 
+.timeline-body {
+  background-color: $card-background;
+}
+
+.timeline-item {
+  h5 {
+    color: $text;
+  }
+}
+
+// .timeline-item:after {
+//   background-color: $card-background;
+// }
+
+ul li {
+  margin-bottom: 4px;
+}
+
+a:not(.card):not(.project):not(.badge):not(.no-underline):not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.nav-item) {
+  display: inline-block;
+  text-decoration: none;
+
+  color: $link-text;
+
+  &:hover {
+    color: $secondary;
+  }
+
+  &::after {
+    content: "";
+    display: block;
+    height: 0.15em;
+    margin-top: -0.15em;
+    width: 0;
+    background: $tertiary;
+    transition: width 0.35s;
+  }
+
+  &:hover::after {
+    width: 100%;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $heading;
+}
+
+.badge {
+  background-color: $button-background;
+  color: $button-text;
 }

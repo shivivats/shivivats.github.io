@@ -27,12 +27,6 @@ permalink: /
       <li><a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/other-work">Non-Game Projects</a></li>
       <li><a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/blog">Blog</a></li>
     </ul>
-    <!-- <p>To download my CV as a PDF, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="#">click here</a>.</p>
-    <p>To know more about me, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/about">click here</a>.</p>
-    <p>To see some of the games I've worked on, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover"  href="/projects">click here</a>.</p>
-    <p>To see non-games projects I've worked on <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover"  href="/other-work">click here</a>.</p>
-    <p>To see my academic work, including published papers and teaching experience, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover"  href="/academic-work">click here</a>.</p>
-    <p>To read my blog with dev logs, reflections, thoughts about my D&D campaign, and more, <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover"  href="/blog">click here</a>.</p> -->
     <p>You can reach me at <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="mailto:shivivats7@gmail.com">shivivats7@gmail.com</a>.</p>
     {% include about/news.html %}
 </div>
