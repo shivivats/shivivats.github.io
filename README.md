@@ -18,6 +18,7 @@ Based on the theme [portfolYOU](https://github.com/yousinix/portfolYOU).
 - video podcast with Mathias
 - stealth game
 - coop game
+- golang pokedex full-stack app
 
 
 ### Blog

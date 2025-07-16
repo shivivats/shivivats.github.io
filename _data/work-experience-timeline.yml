@@ -1,0 +1,57 @@
+- title: Project Assistant, <a href="https://www.spirit-project.eu/">SPIRIT Project</a>
+  from: OCT 2022
+  to: PRESENT
+  description:  <p class="lead">Department of Information Technology, University of Klagenfurt, Austria</p>
+                <p><strong>Development</strong></p>
+                <ul>
+                  <li>Developed a modular platform for subjective quality testing of point clouds platform for the <strong>Microsoft HoloLens 2</strong> using using <strong>Unity</strong> and <strong>C#</strong>.</li>
+                  <li>Implemented dynamic resource management, HoloLens 2 shaders, and maintained a modular design to ensure ease-of-use by third-parties.</li>
+                  <li>Implemented a custom solution for eye-tracking calibration and data collection.</li>
+                  <li>Implemented a custom solution in C# and MATLAB to generate visual saliency heatmaps from collected eye-tracking data.</li>
+                  <li>Ported a Unity collaborative telepresence app from VR to AR for the Meta Quest 3.</li>
+                  <li>Trained objective QoE models for point clouds using Python.</li>
+                  <li>Integrating systems for point cloud streaming using LLL-DASH with WebRTC-based systems from project partners.</li>
+                  </ul>
+                  <p><strong>Communication and Organisation</strong></p>
+                  <ul>
+                  <li>Organised and led regular internal meetings for over 2 years.</li>
+                  <li>Represented the University in meetings with European project partners.</li>
+                  <li>Collaborated with partners on five publications (and more ongoing work).</li>
+                  <li>Presented/demonstrated my work at four academic conferences and three public events, along with other internal demonstrations.</li>
+                  <li>Mentored an intern for 6 weeks, providing guidance and reviewing progress.</li>
+                  <li>Regularly contributed to project reports and deliverables.</li>
+                  <li>Published <a href="/academic-work">5 papers</a> on my work</li>
+                </ul>
+
+- title: Lecturer, Masters Game Studies and Engineering
+  from: OCT 2024
+  to: PRESENT
+  description:  <p class="lead">Department of Information Technology, University of Klagenfurt, Austria</p>
+                <ul>
+                  <li>Developed and taught a new course titled “Self-Guided Game Studies and Engineering” for the Masters Game Studies and Engineering curriculum.</li>
+                  <li>Mentored 17 students and guided them along their self-study journey through various topics related to game development.</li>
+                  <li>Will be teaching the courses “Non-Entertainment Games” and “Introduction to Computer Graphics” for the aforementioned curriculum from Oct 2025.</li>
+                  <li>Held a guest lecture for the “Representation and Configuration in Games - Perspectives” course on “Glitches - A Programmer's Perspective”.</li>
+                </ul>
+
+- title: Project Assistant, <a href="https://5gplayground.at/en/">5G Playground</a> “Virtual Realities” Use Case
+  from: OCT 2020
+  to: OCT 2022
+  description:  <p class="lead">Department of Information Technology, University of Klagenfurt, Austria</p>
+                <ul>
+                  <li>Developed a Python web application using Flask, featuring a ported viewport prediction algorithm for on-demand 360° VR videos.</li>
+                  <liDeployed the webapp at a 5G edge using NGINX.</li>
+                  <li>Implemented caching of predicted viewports using NGINX caching rules and Python requests, reducing server response time by up to 77%.</li>
+                  <li>Reduced motion-to-glass latency for on-demand streaming by up to 62% through significant modification of an existing Android DASH 360° video client.</li>
+                  <li>Collaborated with project partners throughout Austria and presented my work at project meetings and dissemination events.</li>
+                  <li>Wrote my master thesis and published <a href="/academic-work/07-seaware">one paper</a> on this work.</li>
+                </ul>
+
+- title: Game Lab Tutor, <a href="https://kcgl.aau.at/">Klagenfurt Coding Game Lab</a>
+  from: OCT 2020
+  to: JAN 2021
+  description:  <p class="lead">University of Klagenfurt, Austria</p>
+                <ul>
+                  <li>Hosted bi-weekly Twitch streams for the Klagenfurt Coding Game Lab, teaching programming and game development concepts to Masters students.</li>
+                  <li>Developed a basic 2D platformer in Unity and C#, demonstrating core game development principles including physics, tilemaps, animations, and audio.</li>
+                </ul>
