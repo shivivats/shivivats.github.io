@@ -11,36 +11,68 @@
 // $text-black: #343a40;
 // $text-white: rgba(white, .9);
 
-$light-background: #242629;
-$light-text: #94a1b2;
+// https://sass-lang.com/documentation/variables/
 
+// LIGHT THEME (Also default initialisations)
+$background: #242629;
+$heading: #94a1b2;
+$text: #94a1b2;
 
+$quote-heading: #9f79e0;
+$quote-text: #94a1b2;
 
+$card-background: #94a1b2;
+$button-background: #94a1b2;
+$buton-text: #94a1b2;
 
+$button-text: $heading;
+$link: $button-background;
 
-$dark-background: #242629;
-$dark-card-background: #16161a;
-$dark-button-background: #7f5af0;
+$border: #94a1b2;
 
-$dark-heading: #fffffe;
-$dark-text: #94a1b2;
+$input-background: $card-background;
+$input-text: $button-text;
 
-$dark-button-text: $dark-heading;
-$dark-link: $dark-button-background;
+$link-text: #94a1b2;
+$link-hover: #94a1b2;
+$link-visited: #94a1b2;
 
-$dark-border: #010101;
+$highlight: $link-text;
 
-$dark-input-background: $dark-card-background;
-$dark-input-text: $dark-button-text;
+$primary: $link-text;
+$secondary: $link-hover;
+$tertiary: $link-visited;
 
-$dark-link-text: #7f5af0;
+// DARK THEME
+[data-bs-theme="dark"] {
+    $background: #3a3a3a !global;
+    $heading: #9f79e0 !global;
+    $text: #E0E0E0 !global;
 
+    $quote-heading: #b596eb !global;
+    $quote-text: #94a1b2 !global;
 
+    $card-background: #282828 !global;
+    $button-background: #FFD740 !global;
+    $button-text: #1A1A1A !global;
 
-$dark-illustration-primary: #fffffe;
+    $link: $button-background !global;
 
-$dark-illustration-secondary: #72757e;
-$dark-illustration-tertiary: #2cb67d;
+    $border: #555555 !global;
+
+    $input-background: $card-background !global;
+    $input-text: $button-text !global;
+
+    $link-text: #64B5F6 !global;
+    $link-hover: #FFFFFF !global;
+    $link-visited: #42A5F5 !global;
+
+    $highlight: #7D79E0 !global;
+
+    $primary: $link-text !global;
+    $secondary: $link-hover !global;
+    $tertiary: $link-visited !global;
+}
 
 $rounded-borders: 15px;
 
