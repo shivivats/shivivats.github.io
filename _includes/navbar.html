@@ -53,11 +53,19 @@
       {%- assign url = html_page.url | relative_url -%}
       {%- endif -%}
 
-      <a class="nav-item nav-link {{ active_status }}" href="{{ url }}" {%- if html_page.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ html_page.title }}</a>
+      {% for item in site.data.navbar-icons %}
+
+      {%- if item.title contains html_page.title -%}
+      {%- assign current_icon = item.svg -%}
+      {%- endif -%}
 
       {% endfor %}
 
-      <!-- <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span> -->
+      <a class="nav-item nav-link {{ active_status }}" href="{{ url }}" {%- if html_page.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}> {{current_icon}} {{ html_page.title }}</a>
+
+      {% endfor %}
+
+      <!-- <span id=" theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span> -->
     </div>
   </div>
 
