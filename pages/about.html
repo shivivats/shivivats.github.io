@@ -7,10 +7,15 @@ weight: 5
 
 <h2>About Me</h2>
 <div class="row">
-    <div class="lead">Hi! I am <strong>{{ site.author.name }}</strong> :wave:,<br></div>
-    <div style="display:flex; align-items: center;">
-        {% include about/summary_lead.html %}
-        <!-- <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image" style="max-height:200px; width:200px;border-radius: 50%;"> -->
+    <div class="col-sm">
+        <img src="/assets/images/Me/shivi_vats_square.jpg" class="rounded float-right img-fluid" width="100%"/>
+    </div>
+    <div class="col-sm-9 align-self-center">
+        <div class="lead">Hi! I am <strong style="color:#9f79e0">{{ site.author.name }}</strong> :wave:,<br></div>
+        <div style="display:flex; align-items: center;">
+            {% include about/summary_lead.html %}
+            <!-- <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image" style="max-height:200px; width:200px;border-radius: 50%;"> -->
+        </div>
     </div>
     {% include about/summary.html %}
 </div>
