@@ -14,30 +14,29 @@
 // https://sass-lang.com/documentation/variables/
 
 // LIGHT THEME (Also default initialisations)
-$background: #242629;
-$heading: #94a1b2;
-$text: #94a1b2;
+$background: #2b2a33;
+$heading: #9f79e0;
+$text: #E0E0E0;
 
-$quote-heading: #9f79e0;
+$quote-heading: #b596eb;
 $quote-text: #94a1b2;
 
-$card-background: #94a1b2;
-$button-background: #94a1b2;
-$buton-text: #94a1b2;
+$card-background: #3b3a41;
+$button-background: #FFD740;
+$button-text: #1A1A1A;
 
-$button-text: $heading;
 $link: $button-background;
 
-$border: #94a1b2;
+$border: #555555;
 
 $input-background: $card-background;
 $input-text: $button-text;
 
-$link-text: #94a1b2;
-$link-hover: #94a1b2;
-$link-visited: #94a1b2;
+$link-text: #64B5F6;
+$link-hover: #FFFFFF;
+$link-visited: #42A5F5;
 
-$highlight: $link-text;
+$highlight: #7D79E0;
 
 $primary: $link-text;
 $secondary: $link-hover;
