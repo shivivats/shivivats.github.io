@@ -1,12 +1,16 @@
 <!-- Simple-Jekyll-Search https://github.com/christian-fei/Simple-Jekyll-Search -->
 
 <div class="input-group mt-5 px-3">
-  <span class="input-group-text border border-primary bg-primary">
-    <i class="fas fa-search"></i>
+  <span class="input-group-text search-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search-icon lucide-search">
+      <path d="m21 21-4.34-4.34" />
+      <circle cx="11" cy="11" r="8" />
+    </svg>
+    </svg>
   </span>
-    <input id="search-input" type="text" class="form-control search-box" placeholder="Search posts..">
+  <input id="search-input" type="text" class="form-control search-box" placeholder="Search posts...">
   <button class="btn btn-outline-primary" onclick="location.href = '{{ '/blog/categories' | relative_url }}';">
-    <i class="fas fa-list"></i>
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-list-icon lucide-list"><path d="M3 12h.01"/><path d="M3 18h.01"/><path d="M3 6h.01"/><path d="M8 12h13"/><path d="M8 18h13"/><path d="M8 6h13"/></svg>
   </button>
 </div>
 <ul class="px-3 list-group" id="results-container"></ul>
@@ -14,10 +18,10 @@
 <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
 <script>
   var sjs = SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action">{title}</a>',
-        noResultsText: '<li class="list-group-item list-group-item-action disabled">No results found</li>',
-        json: '{{ '/search.json' | relative_url }}'
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action search-result">{title}</a>',
+    noResultsText: '<li class="list-group-item list-group-item-action search-result-disabled">No results found</li>',
+    json: '/search.json'
       })
 </script>

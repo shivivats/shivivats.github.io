@@ -30,7 +30,7 @@ $link: $button-background;
 $border: #555555;
 
 $input-background: $card-background;
-$input-text: $button-text;
+$input-text: $text;
 
 $link-text: #64B5F6;
 $link-hover: #FFFFFF;
@@ -43,7 +43,7 @@ $secondary: $link-hover;
 $tertiary: $link-visited;
 
 // DARK THEME
-[data-bs-theme="dark"] {
+//[data-bs-theme="dark"] {
     $background: #2b2a33 !global;
     $heading: #9f79e0 !global;
     $text: #E0E0E0 !global;
@@ -60,7 +60,7 @@ $tertiary: $link-visited;
     $border: #555555 !global;
 
     $input-background: $card-background !global;
-    $input-text: $button-text !global;
+    $input-text: $text !global;
 
     $link-text: #64B5F6 !global;
     $link-hover: #FFFFFF !global;
@@ -71,7 +71,7 @@ $tertiary: $link-visited;
     $primary: $link-text !global;
     $secondary: $link-hover !global;
     $tertiary: $link-visited !global;
-}
+//}
 
 $rounded-borders: 15px;
 

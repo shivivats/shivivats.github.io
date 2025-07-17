@@ -56,22 +56,6 @@ code.highlighter-rouge {
   filter: invert(90%) hue-rotate(180deg);
 }
 
-// Inputs
-input {
-  background-color: $input-background;
-  border-color: $border;
-  color: $input-text;
-
-  &::placeholder {
-    color: rgba($text, 0.64);
-  }
-
-  &:focus {
-    background-color: $input-background;
-    color: $text;
-  }
-}
-
 // Cards
 .card {
   background-color: $card-background;
@@ -182,3 +166,38 @@ h6 {
   color: $button-text;
   border-color: $border;
 }
+
+.btn-outline-primary {
+  background-color: $button-background;
+  color: $button-text;
+  border-color: $border;
+ 
+}
+
+.search-icon {
+  background-color: $button-background;
+  border: 1 solid;
+  border-color: $border;
+}
+
+
+.search-result {
+  background-color:$text;
+  color: $button-text;
+  
+  &:hover {
+      background-color:$quote-text;
+      color: $button-text;
+  }
+}
+
+
+.search-result-disabled {
+  background-color:$text;
+  color: $button-text;
+  &:hover {
+  background-color:$text;
+  color: $button-text;
+  }
+}
+

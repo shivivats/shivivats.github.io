@@ -1,0 +1,16 @@
+.search-box {
+  box-shadow: none !important;
+  background-color: $input-background;
+  color: $text;
+  border-color: $border;
+
+  &::placeholder {
+    color: rgba($text, 0.7);
+  }
+
+  &:focus {
+    background-color: $input-background;
+    color: $text;
+  }
+}
+
