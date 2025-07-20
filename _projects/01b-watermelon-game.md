@@ -1,9 +1,9 @@
 ---
 name: Watermelon Game
 description: 
-image: /assets/images/games/
+image: /assets/images/games/watermelongame/featured.png
 tools: [Godot, 2D, Mobile]
-featured: no
+featured: true
 ---
 
 # Watermelon Game
