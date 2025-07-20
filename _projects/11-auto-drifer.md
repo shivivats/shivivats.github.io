@@ -3,6 +3,7 @@ name: Auto Drifter
 tools: [C#, Unity, 2D]
 image: /assets/images/games/autodrifter/autodrifter-featured.png
 description: A top-down 2D racing game where the player competes against the AI in a race, drifting around corners while the car automatically accelerates.
+featured: false
 ---
 
 # Auto Drifter

@@ -3,6 +3,7 @@ name: Busy Hell Tycoon
 tools: [C#, Unity, 2D]
 description: A strategic management game in which the player has to balance their earnings and their life to achieve high scores without dying.
 image: /assets/images/games/busyhelltycoon/busy-hell-tycoon-featured.png
+featured: false
 ---
 
 # Busy Hell Tycoon

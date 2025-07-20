@@ -3,6 +3,7 @@ name: Robo Chase
 description: A local two-player split-screen retro platformer where the cop player tries to catch the robot player.
 image: /assets/images/games/robochase/robo-chase-featured.png
 tools: [C#, Unity, 2D, Local Multiplayer]
+featured: false
 ---
 
 # Robo Chase

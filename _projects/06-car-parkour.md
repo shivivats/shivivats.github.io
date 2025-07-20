@@ -3,6 +3,7 @@ name: Car Parkour
 description: A 3D multiplayer car racing game with Rocket League like mechanics.
 image: /assets/images/games/carparkour/car-parkour-featured.png
 tools: [C#, Unity, 3D, Local Multiplayer]
+featured: false
 ---
 
 # Car Parkour

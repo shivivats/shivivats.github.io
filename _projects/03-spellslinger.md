@@ -3,7 +3,7 @@ name: SpellSlinger
 description: A 3D Augmented Reality mobile game where the player defends their house from enemies by activating different spells using physical cards.
 image: /assets/images/games/spellslinger/spell-slinger-featured.png
 tools: [ARCore, Unity, C#, 3D, Mobile]
-featured: true
+featured: false
 ---
 
 # SpellSlinger

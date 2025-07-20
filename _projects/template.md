@@ -3,7 +3,7 @@ name:
 description: 
 image: /assets/images/games/
 tools: 
-featured: 
+featured: false
 --- -->
 
 # Game Name

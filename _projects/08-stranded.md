@@ -3,6 +3,7 @@ name: Stranded
 description: A 2D space-themed platformer in which the player slings themselves around planes to get to their spaceship.
 image: /assets/images/games/stranded/stranded-featured.png
 tools: [C#, Unity, 2D]
+featured: false
 ---
 
 # Stranded

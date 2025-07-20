@@ -3,6 +3,7 @@ name: SpellShift
 description: A top-down 2D alchemy action game with a focus on learning and combining elements for ideal effectiveness against different enemies and objects.
 image: /assets/images/games/spellshift/spell-shift-featured.png
 tools: [Unity, C#, 2D]
+featured: false
 ---
 
 # SpellShift
