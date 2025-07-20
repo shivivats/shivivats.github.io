@@ -42,5 +42,5 @@ The game can be found at [](https://dr4g0nsoul.itch.io/vis-vis), and here’s a 
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

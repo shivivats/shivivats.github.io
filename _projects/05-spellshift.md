@@ -47,5 +47,5 @@ Our decision to leave the audio out of the game was good. The absence of audio d
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

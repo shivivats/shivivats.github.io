@@ -45,5 +45,5 @@ I was the only team member who didn’t vote for the building management idea as
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

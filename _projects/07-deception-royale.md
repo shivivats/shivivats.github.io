@@ -45,5 +45,5 @@ Online multiplayer was more challenging to implement than my teammate, and I had
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

@@ -40,5 +40,5 @@ The abstract is cut short since the paper itself is an extended abstract. For mo
 [^1]: ITU-T. [n. d.]. Rec. P.1203. Parametric bitstream-based quality assessment of progressive download and adaptive audiovisual streaming services over reliable transport - video quality estimation module. http://handle.itu.int/11.1002/ps/P1203-01
 
 <p class="text-center">
-{% include elements/button.html link="/academic-work" text="Back to Academic Work" %}
+{% include elements/ending-button.html link="/academic-work" text="Back to Academic Work" %}
 </p>

@@ -73,5 +73,5 @@ Since this was my first time working with AR, I had no idea what to expect in te
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

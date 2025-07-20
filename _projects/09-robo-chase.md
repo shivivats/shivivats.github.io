@@ -85,5 +85,5 @@ As with most projects I make, I challenge myself to try something I haven't trie
 Ultimately, the game holds a special place in my heart as sitting together and gaming with your friends is one of life's best experiences, and I was glad we could make a game that fits the dying couch multiplayer genre. Even though it was an unfinished product, it was still fun to play with a friend!
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

@@ -76,5 +76,5 @@ I was generally never good at writing stories or using words to express what I h
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

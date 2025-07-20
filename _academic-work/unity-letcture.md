@@ -25,5 +25,5 @@ tools: []
 
 
 <p class="text-center">
-{% include elements/button.html link="/academic-work" text="Back to Academic Work" %}
+{% include elements/ending-button.html link="/academic-work" text="Back to Academic Work" %}
 </p> -->

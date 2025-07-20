@@ -47,5 +47,5 @@ I had a lot of fun designing and developing this game, as I am passionate about 
 I learnt that games do not need to be complicated to be fun. They can be as simple as a racing/drifting game using only one button!
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

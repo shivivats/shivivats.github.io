@@ -43,5 +43,5 @@ For more information, please read the paper [here](https://dl.acm.org/doi/abs/10
 
 
 <p class="text-center">
-{% include elements/button.html link="/academic-work" text="Back to Academic Work" %}
+{% include elements/ending-button.html link="/academic-work" text="Back to Academic Work" %}
 </p>

@@ -85,5 +85,5 @@ This game represents several firsts for me. It represents my first game after a 
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

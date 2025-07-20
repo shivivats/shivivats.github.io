@@ -50,5 +50,5 @@ It was also the first big 3D project I had undertaken, and I quite liked how it 
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

@@ -47,5 +47,5 @@ My teammate during this project was one of the people I had troubles working bef
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

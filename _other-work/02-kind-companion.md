@@ -173,5 +173,5 @@ Developing an app over a few months was a new and overall good experience. I’m
 
 
 <p class="text-center">
-{% include elements/button.html link="/other-work" text="Back to Other Work" %}
+{% include elements/ending-button.html link="/other-work" text="Back to Other Work" %}
 </p>

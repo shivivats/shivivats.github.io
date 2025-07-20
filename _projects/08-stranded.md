@@ -48,5 +48,5 @@ Working in a team is more complicated than it seems. This was the most stressful
 
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>

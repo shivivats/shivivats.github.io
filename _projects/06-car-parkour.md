@@ -44,5 +44,5 @@ Overall, we were satisfied with what we had created. I had successfully implemen
 Implementing multiplayer was a new experience I was looking forward to since I love playing multiplayer games with friends. I learned the basics of networking and why some functionalities and some don't.
 
 <p class="text-center">
-{% include elements/button.html link="/projects" text="Back to Games" %}
+{% include elements/ending-button.html link="/projects" text="Back to Games" %}
 </p>
