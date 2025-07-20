@@ -2,7 +2,7 @@
 name: Kind Companion
 description: An Android app containing various activities to help people deal with anxiety.
 image: /assets/images/kindcompanion/kind-companion-featured.png
-tools: [JAVA, Android]
+tools: [JAVA, Mobile]
 ---
 
 # Kind Companion

@@ -6,7 +6,7 @@ conference: 2022 IEEE International Symposium on Multimedia (ISM)
 # month: December 2022
 # date: 2022-12-01
 image: /assets/images/publications/seaware.png
-tools: [5G, Python, Webapp, Android, VR]
+tools: [5G, Python, Webapp, Mobile, VR]
 ---
 
 <div>
