@@ -2,7 +2,7 @@
 name: The System
 description: A text-based narrative game that tries to make the player experience life through the point-of-view of people with Dissociative Identity Disorder.
 image: /assets/images/games/thesystem/the-system-featured.png
-tools: [Twine]
+tools: [Twine, Narrative]
 featured: false
 ---
 

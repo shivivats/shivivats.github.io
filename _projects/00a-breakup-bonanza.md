@@ -2,7 +2,7 @@
 name: Breakup Bonanza&#58; A Dumping Simulator
 description: A visual novel where the player has to navigate dialogue choices to successfully break-up with their toxic partners.
 image: /assets/images/games/breakupbonanza/featured.png
-tools: [Python, 2D]
+tools: [Python, 2D, Narrative]
 featured: false
 ---
 
