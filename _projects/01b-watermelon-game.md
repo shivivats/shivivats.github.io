@@ -1,6 +1,6 @@
 ---
 name: Watermelon Game
-description: 
+description: A 2D mobile clone of the Suika game made alone as a way to learn Godot.
 image: /assets/images/games/watermelongame/featured.png
 tools: [Godot, 2D, Mobile]
 featured: true
