@@ -1,12 +1,14 @@
 <div>
-    <h3>News</h3>
     <table>
         {% for item in site.data.news %}
-        <tr>
+        <!-- <tr>
             <td style="vertical-align: top;"><b>{{ item.date }}</b></td>
             <td></td>
             <td style="vertical-align:top;">{{ item.title }}</td>
-        </tr>
+        </tr> -->
+        <p>
+            <b>{{ item.date_words }}</b>&#58; {{ item.title }}
+        </p>
         {% endfor %}
     </table>
 </div>

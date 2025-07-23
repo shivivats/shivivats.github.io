@@ -28,5 +28,6 @@ permalink: /
       <li><a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/blog">Blog</a></li>
     </ul>
     <p>You can reach me at <a class="link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="mailto:shivivats7@gmail.com">shivivats7@gmail.com</a>.</p>
+    <h3>News</h3>
     {% include about/news.html %}
 </div>

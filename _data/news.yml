@@ -1,20 +1,54 @@
+- date: 04.06.2025
+  date_words: 04 June, 2025
+  title: I hosted a stand at the <a href="https://www.tuwien.at/forschung/events/externe-veranstaltungen/news/techforum-millstatt">Tech Forum Millstatt</a> demonstrating a newer version of <a href="https://github.com/shivivats/MR-Subjective-Testing-Platform">my platform</a> for the HoloLens 2 on behalf of the University of Klagenfurt.
+  link:
+
 - date: 17.10.2024
+  date_words: 17 October, 2024
   title: I hosted a booth showcasing <a href="https://github.com/shivivats/MR-Subjective-Testing-Platform">my platform</a> for subjective testing with point clouds for the HoloLens 2 at the <a href="https://best-klagenfurt.at/">BeSt Messe</a> in Klagenfurt on behalf of the University of Klagenfurt as promotion for the University and the Department of Information Technology.
   link: 
 
-- date: 10.2024 - 06.2025
-  title: I developed and taught a course titled "Self-Studied Game Studies and Engineering" at the University of Klagenfurt from Oct 2024 to Jun 2025 (two semesters) and guided students as they went on their self-study journeys in game development.
-  link: 
+# - date: 10.2024 - 06.2025
+#   title: I developed and taught a course titled "Self-Studied Game Studies and Engineering" at the University of Klagenfurt from Oct 2024 to Jun 2025 (two semesters) and guided students as they went on their self-study journeys in game development.
+#   link: 
 
 - date: 26.08.2024
-  title: I presented my work at the <a href="https://www.aau.at/blog/university-meets-industry/">University meets Industry&colon; Talents for Carinthia</a> event.
+  date_words: 26 August, 2024
+  title: I presented my work with the <a href="https://5gplayground.at/use-cases/#virtual-reality">5G Playground</a> at the <a href="https://www.aau.at/blog/university-meets-industry/">University meets Industry&colon; Talents for Carinthia</a> event, focusing on how the project was a successful collaboration between university research and industry software development.
   link: 
 
 - date: 05.06.2024
+  date_words: 05 June, 2024
   title: I was invited to a video podcast by <a href="https://www.itec.uni-klu.ac.at/~mlux/index.php">Mathias Lux</a> to talk about Unity vs Unreal Engine for game development. Find it on YouTube <a href="https://youtu.be/gez5AT9NHfI?si=6KLVw4uaxdIeWNi7">here</a>.
   link: 
 
-
 - date: 24.05.2024
-  title: I hosted a booth showcasing <a href="https://github.com/shivivats/MR-Subjective-Testing-Platform">my platform</a> for subjective testing with point clouds for the HoloLens 2 at the <a href="https://www.aau.at/lange-nacht-der-forschung/">Lange Nacht der Forschung 2024</a>.
+  date_words: 24 May, 2024
+  title: I hosted a booth showcasing <a href="https://github.com/shivivats/MR-Subjective-Testing-Platform">my platform</a> for subjective testing with point clouds for the HoloLens 2 at the <a href="https://www.aau.at/lange-nacht-der-forschung/">Lange Nacht der Forschung 2024</a> (aka Long Night of Research 2024).
   link: 
+
+- date: 16.04.2024
+  date_words: 16 April, 2024
+  title: I presented <a href="/academic-work/05-no-reference">our paper</a> about subjective quality of experience and eye-tracking of animated point clouds at <a href="https://2024.acmmmsys.org/">ACM Multimedia Systems (MMSys) 2024</a> in Bari, Italy.
+
+- date: 12.02.2024
+  date_words: 12 February, 2024
+  title: I presented <a href="/academic-work/05-no-reference">our paper</a> about fine-tuning an objective quality of experience model for point clouds at <a href="https://dl.acm.org/doi/proceedings/10.1145/3638036">ACM Mile High Video (MHV) 2024</a> in Denver, USA.
+
+- date: 21.06.2023
+  date_words: 21 June, 2023
+  title: I presented two of our papers (<a href="/academic-work/06-impact">1</a>, <a href="/academic-work/01-platform">2</a>) at <a href="https://sites.google.com/view/qomex2023">The 15th International Conference on Quality of Multimedia Experience (QoMEX) 2023</a> in Ghent, Belgium.
+
+- date: 06.12.2022
+  date_words: 06 December, 2022
+  title: I presented <a href="/academic-work/07-seaware">my paper</a> on lowering latency for on-demand streaming of 360° videos at <a href="https://ieeexplore.ieee.org/xpl/conhome/10019600/proceeding">IEEE International Symposium on Multimedia (ISM)</a> in Naples, Italy.
+
+- date: 17.11.2022
+  date_words: 17 November, 2022
+  title: I attended the Futurezone Gala Awards since our work for the <a href="https://5gplayground.at/use-cases/#virtual-reality">5G Playground "Virtual Realities" Use Case</a> was <a href="https://futurezone.at/myfuzo/futurezone-award-2022-nominierte-preise-preisverleihung/402178929">nominiated</a> in the "5G-Innovation des Jahres" ("5G Innovation of the Year") category.
+
+- date: 20.05.2022
+  date_words: 20 May, 2022
+  title: I hosted a booth at <a href="https://www.aau.at/blog/lange-nacht-der-forschung-2022/">Lange Nacht der Forschung 2022</a> (aka Long Night of Research 2022). I presented my work with the <a href="https://5gplayground.at/use-cases/#virtual-reality">5G Playground</a> by showcasing on-demand streaming of 360° videos on the Meta Quest 2 from 5G edge servers.
+  link: 
+
