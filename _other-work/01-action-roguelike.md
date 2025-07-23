@@ -11,7 +11,8 @@ This is the barebones for a 3D action roguelike game developed by following Tom 
 
 The course has provided me with a good base-level understanding of how the engine is designed and the workflow that developers must follow to utilize it effectively. It has also made me realize that Unreal Engine is designed for interdisciplinary teams, and working on the engine alone is a big task, considering the diversity of implementation of various systems in the engine.
 
-Overall, I am very satisfied with the engine and eager to learn more, despite the daunting task of mastering all its aspects. Working full-time and finding some time to do this course on the side has slowed my progress, but I am determined to complete it soon to gain a better understanding of implementing multiplayer, which is the final part of the course remaining for me. (I already have a basic understanding of multiplayer in Unreal Engine; please see [my other post]().)
+Overall, I am very satisfied with the engine and eager to learn more, despite the daunting task of mastering all its aspects. Working full-time and finding some time to do this course on the side has slowed my progress, but I am determined to complete it soon to gain a better understanding of implementing multiplayer, which is the final part of the course remaining for me.
+<!-- (I already have a basic understanding of multiplayer in Unreal Engine; please see [my other post]().) -->
 
 
 Some functionalities implemented in the game are:
