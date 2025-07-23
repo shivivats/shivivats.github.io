@@ -6,8 +6,6 @@ Based on the theme [portfolYOU](https://github.com/yousinix/portfolYOU).
 
 ### Games
 - action roguelike (unreal engine multiplayer roguelike based on tom looman's course)
-- breakup bonanza (renpy game highlighting toxic masculinity)
-- godot watermelon game (suika game cloned to learn godot)
 - kitchen action (clone of overcooked based on code monkey tutorials)
 
 ### Academic Work
