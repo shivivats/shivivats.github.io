@@ -1,7 +1,7 @@
 ---
 name: Kind Companion
 description: An Android app containing various activities to help people deal with anxiety.
-image: /assets/images/kindcompanion/kind-companion-featured.png
+image: /assets/images/other_projects/kindcompanion/kind-companion-featured.png
 tools: [JAVA, Mobile]
 ---
 
@@ -35,28 +35,28 @@ Here are some screenshots:
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/images/kindcompanion/kc-home-page.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-home-page.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-controlled-breathing.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-controlled-breathing.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-note-example.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-note-example.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-note-reminder.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-note-reminder.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-painting.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-painting.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-settings-general.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-settings-general.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-settings-reminder.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-settings-reminder.png" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/kindcompanion/kc-useful-knowledge.png" class="d-block w-50" alt="...">
+      <img src="/assets/images/other_projects/kindcompanion/kc-useful-knowledge.png" class="d-block w-50" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#kindCompanionCarousel" data-bs-slide="prev"  data-bs-theme="dark">
